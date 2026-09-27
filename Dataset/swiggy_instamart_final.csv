@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,City,State,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Order_Value,Payment_Mode,Order_Status,Delivery_Time_Min,Customer_Rating,Delivery_Partner,Customer_Phone,Order_Date
+ORD00001,CUST0861,Rohan,Bengaluru,Karnataka,P010,"Surf Excel",household,3,75,NULL,NULL,upi,Cancelled,25,5,Rahul,Unknown,2025-03-13
+ORD00002,CUST0022,Rahul,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,150,0,1050,"credit card",Cancelled,45,4,Rahul,Unknown,2025-12-11
+ORD00003,CUST0388,Priya,Delhi,Delhi,P009,"Tata Salt",staples,2,50,0,100,upi,Returned,NULL,3,Sneha,Unknown,2025-01-14
+ORD00004,CUST1414,Aditi,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,2,150,0,300,cash,Returned,45,NULL,Amit,Unknown,2025-09-17
+ORD00005,CUST0188,Aarav,Bengaluru,Delhi,P001,"Amul Taaza Milk",dairy,1,75,50,37.5,unknown,Cancelled,40,1,Amit,Unknown,2025-02-10
+ORD00006,CUST0041,Sneha,Nagpur,Maharashtra,P002,"Amul Butter",dairy,1,75,25,56.25,upi,Delivered,18,NULL,Vikas,9876543210,2025-07-20
+ORD00009,CUST0896,Aarav,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,5,500,0,2500,unknown,Unknown,75,4,Amit,Unknown,2025-09-29
+ORD00010,CUST1649,Neha,Mumbai,Maharashtra,P002,"Amul Butter",dairy,4,60,25,180,unknown,Returned,75,5,Priya,Unknown,2025-07-06
+ORD00011,CUST0294,Rahul,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,20,50,70,upi,Cancelled,22,NULL,Unknown,Unknown,2025-04-08
+ORD00012,CUST0489,Unknown,Hyderabad,Telangana,P008,"Aashirvaad Atta",staples,1,200,0,200,upi,Delivered,55,NULL,Rahul,9876543210,2025-05-08
+ORD00013,CUST1676,Rahul,Mumbai,Maharashtra,P009,"Tata Salt",staples,3,35,5,99.75,wallet,Delivered,10,NULL,Rahul,Unknown,2025-06-09
+ORD00014,CUST0338,Unknown,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,1,40,0,40,unknown,Delivered,18,4,Rohit,9876543210,2025-06-12
+ORD00015,CUST0750,Aarav,Mumbai,Maharashtra,P006,Pepsi,beverages,3,200,0,600,cash,"Out for Delivery",22,3,Priya,Unknown,2025-08-18
+ORD00016,CUST1061,Rohan,Delhi,Delhi,P003,"Britannia Bread",bakery,4,20,10,72,unknown,Delivered,15,3,Unknown,9876543210,2025-10-29
+ORD00017,CUST0626,Rahul,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,3,150,0,450,upi,Unknown,90,4,Unknown,Unknown,2025-12-08
+ORD00018,CUST1530,Rohan,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,6,250,5,1425,unknown,"Out for Delivery",18,5,Rahul,9876543210,2025-02-05
+ORD00019,CUST0838,Aditi,Pune,Maharashtra,P005,"Coca Cola",beverages,4,250,0,1000,unknown,Delivered,35,3,Rahul,Unknown,2025-04-11
+ORD00022,CUST1278,Vishal,Hyderabad,Telangana,P005,"Coca Cola",beverages,4,25,10,90,"credit card",Delivered,25,3,Rahul,Unknown,2025-01-23
+ORD00023,CUST0160,Unknown,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,4,20,0,80,upi,Delivered,40,1,Amit,Unknown,2025-06-01
+ORD00024,CUST0849,Ananya,Mumbai,Maharashtra,P014,"Red Bull",beverages,2,35,50,35,cash,Cancelled,22,3,Rahul,9876543210,2025-04-03
+ORD00025,CUST0739,Ananya,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",7,50,0,350,"credit card",Delivered,10,1,Rahul,Unknown,2025-02-05
+ORD00026,CUST0665,Unknown,Nashik,Maharashtra,P012,"Dove Soap","personal care",4,200,25,600,wallet,Cancelled,35,5,Priya,Unknown,2025-10-31
+ORD00028,CUST0170,Priya,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,5,60,5,285,"credit card",Delivered,45,4,Vikas,Unknown,2025-10-10
+ORD00030,CUST0934,Aditi,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,5,500,15,2125,wallet,Delivered,18,3,Rohit,Unknown,2025-02-27
+ORD00031,CUST1537,Priya,Nagpur,Maharashtra,P009,"Tata Salt",staples,3,250,NULL,787.5,unknown,Returned,40,5,Amit,Unknown,2025-09-16
+ORD00032,CUST0540,Rahul,Nagpur,Maharashtra,P006,Pepsi,beverages,7,20,50,70,cash,Unknown,90,3,Amit,Unknown,2025-02-10
+ORD00034,CUST0385,Ananya,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,5,50,20,200,upi,Delivered,18,NULL,Vikas,9876543210,2025-11-07
+ORD00035,CUST1470,Unknown,Nashik,Maharashtra,P015,"Mother Dairy Curd",dairy,7,150,NULL,1102.5,wallet,Delivered,30,1,Unknown,Unknown,2025-10-15
+ORD00036,CUST0919,Priya,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",3,75,20,180,wallet,"Out for Delivery",18,NULL,Rahul,Unknown,2025-12-07
+ORD00037,CUST1020,Aditi,Nagpur,Maharashtra,P005,"Coca Cola",beverages,5,40,NULL,210,unknown,Delivered,15,5,Unknown,Unknown,2025-04-16
+ORD00038,CUST1207,Karan,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,1,35,5,33.25,"credit card",Cancelled,25,5,Rohit,Unknown,2025-01-08
+ORD00040,CUST1277,Neha,Hyderabad,Telangana,P014,"Red Bull",beverages,2,250,25,375,unknown,Delivered,18,3,Amit,Unknown,2025-10-30
+ORD00041,CUST1039,Rahul,Nagpur,Maharashtra,P010,"Surf Excel",household,7,120,0,840,wallet,Delivered,45,4,Unknown,Unknown,2025-04-29
+ORD00042,CUST1494,Ananya,Mumbai,Maharashtra,P012,"Dove Soap","personal care",3,150,50,225,upi,Cancelled,90,NULL,Rohit,Unknown,2025-09-21
+ORD00043,CUST1606,Unknown,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,7,120,25,630,cash,"Out for Delivery",15,5,Rohit,Unknown,2025-01-04
+ORD00044,CUST0504,Aarav,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",2,35,0,70,unknown,"Out for Delivery",22,1,Vikas,9876543210,2025-03-03
+ORD00045,CUST1535,Aarav,Bengaluru,Karnataka,P002,"Amul Butter",dairy,2,50,25,75,wallet,Returned,NULL,1,Rohit,Unknown,2025-09-16
+ORD00046,CUST1630,Ananya,Mumbai,Maharashtra,P014,"Red Bull",beverages,5,90,NULL,NULL,cash,Delivered,75,5,Vikas,Unknown,2025-03-10
+ORD00047,CUST0851,Ananya,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,120,0,240,upi,Delivered,35,1,Unknown,Unknown,2025-03-03
+ORD00048,CUST0821,Rohan,Mumbai,Maharashtra,P006,Pepsi,beverages,3,75,5,213.75,wallet,Delivered,60,4,Vikas,Unknown,2025-02-08
+ORD00049,CUST0951,Vishal,Pune,Maharashtra,P010,"Surf Excel",household,5,200,NULL,1050,cash,Cancelled,40,4,Sneha,Unknown,2025-07-15
+ORD00050,CUST1435,Unknown,Bengaluru,Karnataka,P010,"Surf Excel",household,3,200,15,510,unknown,Returned,35,3,Rohit,Unknown,2025-08-31
+ORD00051,CUST0993,Vishal,Hyderabad,Telangana,P012,"Dove Soap","personal care",4,40,15,136,wallet,"Out for Delivery",45,NULL,Priya,Unknown,2025-11-12
+ORD00053,CUST0575,Neha,Nashik,Maharashtra,P002,"Amul Butter",dairy,7,25,NULL,NULL,cash,"Out for Delivery",18,NULL,Vikas,Unknown,2025-03-31
+ORD00054,CUST0177,Neha,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,7,20,10,126,upi,Returned,10,3,Priya,Unknown,2025-05-30
+ORD00055,CUST0670,Aarav,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,2,20,5,38,"debit card",Pending,18,5,Unknown,Unknown,2025-10-13
+ORD00056,CUST0778,Vishal,Delhi,Delhi,P007,"Maggi Noodles","instant food",4,25,25,75,"credit card",Unknown,60,4,Unknown,Unknown,2025-06-11
+ORD00057,CUST1075,Neha,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,6,90,NULL,NULL,upi,Pending,15,4,Vikas,Unknown,2025-09-21
+ORD00060,CUST0838,Ananya,Nagpur,Maharashtra,P009,"Tata Salt",staples,6,25,0,150,"credit card",Returned,30,NULL,Amit,Unknown,2025-12-07
+ORD00061,CUST0821,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,4,150,0,600,"debit card",Cancelled,55,3,Rahul,Unknown,2025-06-22
+ORD00062,CUST0744,Unknown,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,6,60,15,306,upi,Unknown,60,4,Amit,9876543210,2025-04-08
+ORD00063,CUST0073,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,3,90,NULL,283.5,upi,Cancelled,18,NULL,Sneha,Unknown,2025-01-17
+ORD00064,CUST0817,Ananya,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,4,90,5,342,unknown,Unknown,40,5,Vikas,9876543210,2025-11-26
+ORD00065,CUST1312,Aditi,Delhi,Delhi,P010,"Surf Excel",household,5,60,NULL,315,cash,Pending,15,3,Priya,Unknown,2025-07-18
+ORD00066,CUST1514,Priya,Hyderabad,Telangana,P012,"Dove Soap","personal care",4,500,0,2000,"credit card",Unknown,35,NULL,Vikas,Unknown,2025-01-14
+ORD00067,CUST0016,Sneha,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,2,25,NULL,NULL,wallet,Returned,90,4,Sneha,Unknown,2025-04-18
+ORD00068,CUST0266,Ananya,Mumbai,Maharashtra,P001,"amul taaza milk",dairy,6,20,5,114,upi,Unknown,45,5,Unknown,9876543210,2025-12-25
+ORD00069,CUST0187,Rohan,Mumbai,Maharashtra,P012,"Dove Soap","personal care",6,75,30,315,cash,Delivered,22,4,Vikas,Unknown,2025-03-02
+ORD00070,CUST1131,Unknown,Delhi,Delhi,P010,"Surf Excel",household,3,90,20,216,unknown,Delivered,22,3,Amit,Unknown,2025-08-06
+ORD00071,CUST1169,Ananya,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,5,120,50,300,upi,Unknown,60,3,Amit,Unknown,2025-06-09
+ORD00072,CUST0521,Unknown,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",2,90,0,180,cash,Delivered,30,2,Amit,Unknown,2025-01-25
+ORD00073,CUST0224,Unknown,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,2,90,NULL,NULL,wallet,Unknown,75,3,Vikas,9876543210,2025-04-25
+ORD00075,CUST1070,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,2,250,30,350,cash,"Out for Delivery",45,NULL,Sneha,Unknown,2025-08-21
+ORD00076,CUST0484,Priya,Nashik,Maharashtra,P006,Pepsi,beverages,1,150,20,120,"credit card",Delivered,22,NULL,Rohit,Unknown,2025-08-07
+ORD00077,CUST0947,Rohan,Delhi,Delhi,P002,"Amul Butter",dairy,5,40,0,200,unknown,Delivered,22,NULL,Rahul,Unknown,2025-01-26
+ORD00078,CUST1464,Rahul,Nashik,Maharashtra,P005,"Coca Cola",beverages,3,40,20,96,upi,Unknown,30,NULL,Unknown,Unknown,2025-01-21
+ORD00079,CUST1295,Vishal,Mumbai,Maharashtra,P014,"Red Bull",beverages,1,20,15,17,unknown,Delivered,90,3,Sneha,Unknown,2025-01-27
+ORD00080,CUST1177,Aarav,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,1,60,50,30,"debit card",Cancelled,40,3,Amit,Unknown,2025-09-30
+ORD00081,CUST0338,Ananya,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",5,120,0,600,"credit card","Out for Delivery",45,3,Sneha,9876543210,2025-04-05
+ORD00082,CUST0714,Aditi,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,1,120,0,120,upi,Pending,55,4,Sneha,Unknown,2025-08-30
+ORD00083,CUST0317,Priya,Nagpur,Maharashtra,P007,"Maggi Noodles","instant food",7,120,0,840,cash,"Out for Delivery",NULL,NULL,Amit,Unknown,2025-01-09
+ORD00085,CUST1618,Sneha,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,1,200,5,190,unknown,Returned,35,1,Sneha,Unknown,2025-07-30
+ORD00086,CUST0732,Rahul,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,3,120,10,324,upi,"Out for Delivery",22,2,Vikas,Unknown,2025-01-20
+ORD00087,CUST1261,Rohan,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,2,90,10,162,wallet,"Out for Delivery",35,2,Sneha,Unknown,2025-01-21
+ORD00088,CUST0014,Neha,Pune,Maharastra,P006,pepsi,beverages,1,200,50,100,unknown,Delivered,75,3,Rohit,Unknown,2025-03-25
+ORD00090,CUST0156,Aarav,Delhi,Delhi,P014,"Red Bull",beverages,2,120,15,204,upi,Delivered,25,5,Rohit,Unknown,2025-04-18
+ORD00091,CUST0276,Priya,Nashik,Maharashtra,P009,"Tata Salt",staples,2,500,50,500,upi,Pending,30,NULL,Unknown,Unknown,2025-08-04
+ORD00092,CUST0129,Unknown,Hyderabad,Maharahstra,P015,"Mother Dairy Curd",dairy,6,25,0,150,unknown,Returned,55,1,Rahul,Unknown,2025-06-06
+ORD00093,CUST0801,Ananya,Delhi,Delhi,P005,"Coca Cola",beverages,5,120,NULL,630,cash,Unknown,45,1,Priya,9876543210,2025-10-14
+ORD00094,CUST1405,Aarav,Mumbai,Maharashtra,P006,Pepsi,beverages,2,25,50,25,unknown,Pending,35,5,Unknown,9876543210,2025-05-12
+ORD00097,CUST0324,Aditi,Nagpur,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,50,10,180,upi,Cancelled,22,NULL,Amit,Unknown,2025-10-02
+ORD00098,CUST1483,Unknown,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,7,75,30,367.5,"debit card",Pending,30,4,Rohit,Unknown,2025-04-18
+ORD00099,CUST0726,Unknown,Hyderabad,Telangana,P010,"Surf Excel",household,2,120,NULL,252,"credit card",Unknown,15,4,Amit,Unknown,2025-01-26
+ORD00100,CUST0993,Ananya,Pune,Maharashtra,P003,"Britannia Bread",bakery,4,25,0,100,wallet,Unknown,35,NULL,Amit,Unknown,2025-03-10
+ORD00102,CUST0073,Rohan,Nashik,Maharashtra,P004,"Lays Magic Masala",snacks,5,20,0,100,unknown,Delivered,30,3,Rohit,Unknown,2025-03-11
+ORD00103,CUST0405,Aditi,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,7,75,10,472.5,upi,Delivered,22,4,Rahul,Unknown,2025-09-17
+ORD00104,CUST1566,Sneha,Pune,Maharashtra,P006,Pepsi,beverages,5,40,30,140,"credit card",Cancelled,15,5,Amit,Unknown,2025-12-14
+ORD00105,CUST0481,Rohan,Pune,Maharashtra,P005,"Coca Cola",beverages,2,200,50,200,unknown,"Out for Delivery",22,NULL,Sneha,Unknown,2025-08-25
+ORD00108,CUST1604,Rahul,Mumbai,Maharashtra,P014,"Red Bull",beverages,4,25,0,NULL,upi,Unknown,NULL,3,Amit,Unknown,2025-01-12
+ORD00109,CUST0690,Neha,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",3,120,5,342,"debit card",Delivered,10,NULL,Vikas,Unknown,2025-02-25
+ORD00110,CUST0820,Rohan,Mumbai,Maharashtra,P002,"Amul Butter",dairy,7,50,10,315,cash,Pending,30,NULL,Amit,Unknown,2025-05-04
+ORD00111,CUST0405,Priya,Hyderabad,Telangana,P007,"Maggi Noodles","instant food",2,90,25,135,upi,Delivered,25,5,Rahul,Unknown,2025-03-20
+ORD00112,CUST0703,Sneha,Bengaluru,Karnataka,P010,"Surf Excel",household,6,40,0,240,unknown,Delivered,90,4,Rahul,Unknown,2025-09-13
+ORD00113,CUST1144,Rohan,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,5,20,NULL,105,"debit card",Delivered,35,NULL,Unknown,Unknown,2025-05-09
+ORD00114,CUST0856,Sneha,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",5,90,30,315,"debit card",Cancelled,10,3,Priya,Unknown,2025-03-10
+ORD00115,CUST1235,Ananya,Delhi,Delhi,P010,"Surf Excel",household,5,50,20,200,upi,Delivered,10,NULL,Priya,Unknown,2025-01-28
+ORD00116,CUST1406,Unknown,Bengaluru,Karnataka,P010,"Surf Excel",household,7,25,NULL,183.75,unknown,Delivered,NULL,5,Unknown,Unknown,2025-04-15
+ORD00117,CUST1689,Unknown,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,6,40,15,204,wallet,Delivered,55,3,Vikas,Unknown,2025-11-30
+ORD00118,CUST0661,Priya,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",7,250,NULL,NULL,unknown,Delivered,15,2,Unknown,Unknown,2025-10-29
+ORD00121,CUST1038,Karan,Pune,Maharashtra,P003,"Britannia Bread",bakery,7,75,20,420,cash,"Out for Delivery",22,4,Vikas,Unknown,2025-01-20
+ORD00123,CUST0211,Priya,Pune,Maharashtra,P010,"Surf Excel",household,6,50,10,270,upi,Unknown,35,1,Sneha,9876543210,2025-04-19
+ORD00124,CUST0161,Unknown,Pune,Maharashtra,P015,"Mother Dairy Curd",beverages,3,60,0,180,upi,"Out for Delivery",15,NULL,Vikas,Unknown,2025-09-17
+ORD00125,CUST0563,Rahul,Pune,Maharashtra,P003,"Britannia Bread",bakery,5,500,15,2125,upi,Returned,22,NULL,Rahul,Unknown,2025-02-04
+ORD00127,CUST0841,Vishal,Nashik,Maharashtra,P002,"Amul Butter",dairy,2,200,50,200,"credit card",Cancelled,40,2,Amit,Unknown,2025-07-03
+ORD00128,CUST0896,Aarav,Mumbai,Maharashtra,P005,"Coca Cola",beverages,3,75,NULL,236.25,upi,Cancelled,45,NULL,Sneha,Unknown,2025-06-14
+ORD00129,CUST1017,Aarav,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,5,25,0,125,unknown,Cancelled,30,2,Vikas,Unknown,2025-10-16
+ORD00130,CUST1136,Aarav,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,3,500,25,1125,"credit card",Cancelled,55,NULL,Sneha,Unknown,2025-11-26
+ORD00131,CUST1092,Ananya,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,5,60,10,270,"debit card",Delivered,55,NULL,Unknown,9876543210,2025-08-02
+ORD00132,CUST1578,Ananya,Nashik,Maharashtra,P007,"maggi noodles","instant food",1,200,0,200,cash,Cancelled,40,NULL,Vikas,Unknown,2025-09-19
+ORD00133,CUST0905,Unknown,Mumbai,Maharashtra,P010,"Surf Excel",household,4,40,20,128,upi,Pending,15,NULL,Unknown,Unknown,2025-08-26
+ORD00134,CUST0928,Aditi,Delhi,Delhi,P014,"Red Bull",beverages,6,60,5,342,cash,"Out for Delivery",25,4,Amit,Unknown,2025-04-17
+ORD00136,CUST1388,Aditi,Nagpur,Maharashtra,P006,Pepsi,beverages,3,250,0,750,wallet,Delivered,25,1,Unknown,Unknown,2025-08-01
+ORD00137,CUST0190,Karan,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,60,20,192,upi,Delivered,60,NULL,Amit,Unknown,2025-02-16
+ORD00138,CUST0191,Aditi,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,5,35,50,87.5,upi,Delivered,45,4,Rohit,Unknown,2025-10-30
+ORD00141,CUST0673,Rohan,Nashik,Maharashtra,P005,"Coca Cola",beverages,3,120,NULL,NULL,wallet,Returned,15,3,Unknown,9876543210,2025-03-30
+ORD00142,CUST1040,Ananya,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",6,25,15,127.5,wallet,Cancelled,10,NULL,Priya,Unknown,2025-06-07
+ORD00143,CUST0728,Rohan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,60,0,240,cash,Unknown,40,5,Vikas,Unknown,2025-01-08
+ORD00144,CUST0384,Vishal,Pune,Maharashtra,P012,"Dove Soap","personal care",7,35,25,183.75,upi,Cancelled,10,3,Priya,9876543210,2025-11-20
+ORD00148,CUST1697,Ananya,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,90,10,324,unknown,Delivered,15,4,Priya,Unknown,2025-03-23
+ORD00150,CUST0986,Sneha,Nashik,Maharashtra,P009,"Tata Salt",staples,7,90,50,315,"credit card",Delivered,90,3,Unknown,Unknown,2025-03-03
+ORD00151,CUST1180,Sneha,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",2,200,50,200,"debit card",Delivered,75,3,Rahul,Unknown,2025-02-10
+ORD00152,CUST1693,Sneha,Nagpur,Maharashtra,P001,"Amul Taaza Milk",dairy,6,50,30,210,"debit card",Returned,10,4,Priya,Unknown,2025-05-06
+ORD00153,CUST0557,Karan,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",3,150,5,427.5,cash,Delivered,55,5,Unknown,Unknown,2025-06-04
+ORD00155,CUST1378,Aditi,Mumbai,Maharashtra,P014,"Red Bull",beverages,7,250,15,1487.5,unknown,Cancelled,90,3,Priya,Unknown,2025-02-20
+ORD00156,CUST1123,Sneha,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,2,35,15,59.5,upi,"Out for Delivery",30,4,Vikas,Unknown,2025-04-14
+ORD00157,CUST0246,Priya,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,1,150,0,150,"credit card",Delivered,22,NULL,Rohit,Unknown,2025-01-05
+ORD00158,CUST0399,Aarav,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,3,50,NULL,NULL,upi,Delivered,NULL,3,Rahul,9876543210,2025-07-11
+ORD00160,CUST0696,Sneha,Delhi,Delhi,P003,"Britannia Bread",bakery,2,90,NULL,189,"debit card",Returned,45,4,Vikas,Unknown,2025-08-10
+ORD00161,CUST0201,Aditi,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,7,120,0,840,upi,"Out for Delivery",18,3,Unknown,Unknown,2025-06-13
+ORD00162,CUST1681,Rohan,Nagpur,Maharashtra,P012,"Dove Soap","personal care",2,25,NULL,52.5,"credit card",Cancelled,40,3,Unknown,Unknown,2025-08-22
+ORD00163,CUST1257,Priya,Delhi,Delhi,P005,"Coca Cola",beverages,3,120,50,180,upi,Delivered,55,NULL,Sneha,Unknown,2025-09-26
+ORD00164,CUST0053,Unknown,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,90,0,630,upi,Unknown,NULL,2,Unknown,Unknown,2025-01-22
+ORD00165,CUST1178,Unknown,Nagpur,Maharashtra,P007,"Maggi Noodles","instant food",2,90,50,90,upi,Cancelled,60,1,Sneha,Unknown,2025-08-02
+ORD00167,CUST0929,Ananya,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,1,120,15,102,upi,Delivered,30,5,Unknown,Unknown,2025-01-11
+ORD00168,CUST1260,Aditi,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,4,25,50,50,wallet,Returned,90,4,Unknown,Unknown,2025-01-13
+ORD00170,CUST0868,Priya,Bengaluru,Karnataka,P006,Pepsi,beverages,1,250,20,200,"credit card",Delivered,55,NULL,Unknown,Unknown,2025-06-12
+ORD00171,CUST1526,Unknown,Bengaluru,Karnataka,P009,"Tata Salt",staples,2,50,20,80,unknown,Cancelled,35,NULL,Sneha,Unknown,2025-07-06
+ORD00174,CUST1007,Priya,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,6,90,20,432,cash,Unknown,10,NULL,Priya,Unknown,2025-11-17
+ORD00176,CUST0333,Aditi,Hyderabad,Telangana,P009,"Tata Salt",staples,4,35,0,140,upi,Pending,60,NULL,Unknown,Unknown,2025-12-17
+ORD00177,CUST0154,Aarav,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",5,25,0,125,unknown,Pending,90,3,Rahul,Unknown,2025-04-18
+ORD00178,CUST1624,Vishal,Hyderabad,Telangana,P009,"Tata Salt",staples,5,150,10,675,upi,Pending,40,5,Unknown,Unknown,2025-04-03
+ORD00179,CUST0790,Rahul,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,5,150,10,675,cash,Cancelled,45,1,Vikas,Unknown,2025-12-15
+ORD00181,CUST1217,Unknown,Pune,Maharashtra,P009,"Tata Salt",staples,5,40,15,170,"credit card",Pending,18,NULL,Unknown,Unknown,2025-12-20
+ORD00183,CUST1391,Ananya,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,40,5,76,wallet,Unknown,90,4,Sneha,Unknown,2025-02-09
+ORD00184,CUST1381,Ananya,Pune,Maharashtra,P006,Pepsi,beverages,5,500,10,NULL,cash,Pending,18,5,Amit,Unknown,2025-06-17
+ORD00185,CUST0702,Neha,Delhi,Delhi,P009,"Tata Salt",staples,6,200,20,960,unknown,Delivered,40,5,Unknown,9876543210,2025-04-22
+ORD00187,CUST1447,Rahul,Bengaluru,Karnataka,P010,"Surf Excel",household,7,500,50,1750,upi,Delivered,22,5,Sneha,Unknown,2025-01-01
+ORD00188,CUST0109,Neha,Pune,Maharashtra,P010,"Surf Excel",household,7,40,10,252,cash,Returned,10,NULL,Priya,Unknown,2025-03-06
+ORD00189,CUST0902,Priya,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,5,200,20,800,cash,Pending,60,NULL,Amit,Unknown,2025-06-17
+ORD00190,CUST0883,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,7,35,0,245,cash,Cancelled,75,3,Priya,9876543210,2025-11-24
+ORD00191,CUST0902,Priya,Pune,Maharashtra,P006,Pepsi,beverages,3,20,0,60,"credit card",Pending,22,4,Unknown,9876543210,2025-02-26
+ORD00192,CUST0215,Ananya,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,2,150,50,150,cash,Delivered,55,5,Amit,Unknown,2025-11-06
+ORD00193,CUST1755,Rohan,Delhi,Delhi,P002,"Amul Butter",dairy,1,35,0,35,cash,Unknown,35,4,Rohit,Unknown,2025-03-12
+ORD00194,CUST0403,Priya,Delhi,Delhi,P006,Pepsi,beverages,3,60,NULL,NULL,upi,Delivered,60,4,Amit,Unknown,2025-11-18
+ORD00195,CUST0821,Priya,Nagpur,Maharashtra,P005,"Coca Cola",beverages,3,90,20,216,upi,Delivered,35,4,Amit,9876543210,2025-05-30
+ORD00197,CUST0043,Aditi,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,20,15,119,upi,Delivered,60,5,Priya,Unknown,2025-06-19
+ORD00198,CUST1630,Karan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,3,40,NULL,NULL,upi,Unknown,35,1,Vikas,Unknown,2025-05-18
+ORD00199,CUST0295,Aditi,Hyderabad,Telangana,P005,"Coca Cola",beverages,1,25,30,17.5,unknown,Cancelled,30,NULL,Unknown,Unknown,2025-10-11
+ORD00200,CUST0063,Rohan,Mumbai,Maharashtra,P006,Pepsi,beverages,7,500,NULL,NULL,"credit card",Cancelled,15,5,Unknown,9876543210,2025-05-19
+ORD00201,CUST0714,Sneha,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,40,5,266,unknown,Cancelled,40,NULL,Unknown,Unknown,2025-08-30
+ORD00203,CUST1450,Aarav,Delhi,Delhi,P003,"Britannia Bread",bakery,6,120,20,576,"credit card",Returned,NULL,4,Vikas,Unknown,2025-03-17
+ORD00204,CUST0646,Ananya,Hyderabad,Telangana,P001,"Amul Taaza Milk",dairy,6,20,NULL,NULL,unknown,Pending,18,NULL,Unknown,Unknown,2025-04-04
+ORD00205,CUST1151,Rohan,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,1,20,0,20,upi,Delivered,15,2,Vikas,Unknown,2025-06-01
+ORD00206,CUST0205,Unknown,Hyderabad,Telangana,P010,"Surf Excel",household,1,75,15,63.75,wallet,Delivered,10,5,Unknown,9876543210,2025-09-02
+ORD00208,CUST0899,Aditi,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,2,90,20,144,upi,"Out for Delivery",22,NULL,Unknown,9876543210,2025-01-30
+ORD00209,CUST0221,Unknown,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,6,90,NULL,NULL,upi,Delivered,NULL,NULL,Rahul,Unknown,2025-08-09
+ORD00211,CUST0220,Vishal,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,2,40,NULL,84,unknown,Delivered,30,NULL,Rohit,Unknown,2025-08-03
+ORD00212,CUST0650,Rohan,Mumbai,Maharashtra,P010,"Surf Excel",household,2,25,0,50,upi,Delivered,45,5,Rohit,Unknown,2025-07-26
+ORD00213,CUST1106,Aarav,Delhi,Delhi,P006,Pepsi,beverages,3,250,25,562.5,upi,Cancelled,45,NULL,Rohit,Unknown,2025-07-20
+ORD00214,CUST1701,Neha,Delhi,Delhi,P003,"Britannia Bread",bakery,7,50,0,350,"debit card","Out for Delivery",40,NULL,Amit,Unknown,2025-03-11
+ORD00215,CUST0331,Aarav,Hyderabad,Delhi,P011,"Colgate Toothpaste","personal care",4,250,NULL,NULL,upi,Cancelled,NULL,3,Priya,Unknown,2025-09-13
+ORD00216,CUST0499,Sneha,Delhi,Delhi,P006,Pepsi,beverages,6,90,0,540,cash,Delivered,55,NULL,Rahul,Unknown,2025-10-31
+ORD00217,CUST1565,Sneha,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,3,120,10,324,upi,Cancelled,75,4,Sneha,Unknown,2025-06-20
+ORD00218,CUST1782,Unknown,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,3,500,0,1500,wallet,Unknown,75,5,Rohit,Unknown,2025-06-15
+ORD00219,CUST0833,Vishal,Mumbai,Maharastra,P008,"Aashirvaad Atta",staples,4,60,20,192,"credit card",Cancelled,60,4,Rohit,Unknown,2025-09-17
+ORD00220,CUST1180,Vishal,Nashik,Maharashtra,P002,"Amul Butter",dairy,5,20,20,80,"debit card",Delivered,60,3,Unknown,Unknown,2025-04-04
+ORD00224,CUST0036,Unknown,Delhi,Delhi,P002,"Amul Butter",dairy,6,90,30,378,"credit card",Delivered,30,5,Rahul,Unknown,2025-03-27
+ORD00225,CUST0991,Aarav,Bengaluru,Karnataka,P002,"Amul Butter",dairy,1,60,50,30,wallet,Returned,NULL,NULL,Sneha,Unknown,2025-04-16
+ORD00229,CUST0388,Neha,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,40,0,160,"debit card",Returned,15,3,Priya,Unknown,2025-05-07
+ORD00230,CUST0699,Unknown,Delhi,Delhi,P009,"Tata Salt",staples,5,75,0,375,cash,Cancelled,90,2,Unknown,Unknown,2025-08-17
+ORD00231,CUST0936,Rahul,Bengaluru,Karnataka,P010,"Surf Excel",household,4,50,25,150,unknown,Delivered,NULL,5,Unknown,9876543210,2025-05-23
+ORD00232,CUST0140,Rohan,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",2,35,NULL,NULL,cash,Delivered,25,5,Rohit,Unknown,2025-03-13
+ORD00233,CUST0227,Rahul,Delhi,Delhi,P003,"Britannia Bread",bakery,2,90,5,171,cash,Cancelled,75,5,Rohit,Unknown,2025-12-10
+ORD00234,CUST1323,Aarav,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,1,120,10,108,unknown,Delivered,40,3,Unknown,Unknown,2025-09-26
+ORD00236,CUST0916,Neha,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,5,35,NULL,183.75,upi,Cancelled,75,5,Sneha,Unknown,2025-01-10
+ORD00237,CUST0087,Karan,Pune,Maharashtra,P002,"Amul Butter",dairy,6,35,NULL,220.5,unknown,Cancelled,22,1,Unknown,Unknown,2025-05-09
+ORD00238,CUST0789,Ananya,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,4,75,10,270,cash,Delivered,18,4,Unknown,Unknown,2025-03-11
+ORD00239,CUST0573,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,3,500,20,1200,"credit card",Returned,18,NULL,Unknown,Unknown,2025-08-25
+ORD00240,CUST0893,Aarav,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,2,50,30,70,upi,Unknown,35,1,Unknown,Unknown,2025-04-04
+ORD00241,CUST1450,Rohan,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,5,90,0,450,unknown,Delivered,18,5,Unknown,Unknown,2025-07-28
+ORD00242,CUST0675,Aarav,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,7,120,0,840,wallet,Pending,15,NULL,Unknown,Unknown,2025-07-16
+ORD00243,CUST1423,Aarav,Nagpur,Maharashtra,P001,"Amul Taaza Milk",unknown,3,35,10,94.5,upi,Cancelled,35,1,Vikas,Unknown,2025-08-27
+ORD00244,CUST1152,Neha,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",4,40,NULL,168,upi,Returned,NULL,3,Unknown,Unknown,2025-08-27
+ORD00246,CUST0288,Priya,Nashik,Maharashtra,P016,"Parle-G Biscuits",bakery,1,50,NULL,52.5,cash,Delivered,60,NULL,Rahul,Unknown,2025-09-28
+ORD00248,CUST1107,Neha,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,7,120,0,840,wallet,Unknown,45,NULL,Rohit,Unknown,2025-03-10
+ORD00249,CUST0048,Unknown,Mumbai,Maharashtra,P005,"coca cola",beverages,5,60,25,225,upi,Delivered,15,NULL,Amit,Unknown,2025-04-09
+ORD00250,CUST0187,Unknown,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,7,150,0,1050,unknown,Delivered,60,NULL,Unknown,Unknown,2025-09-19
+ORD00251,CUST0376,Unknown,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,4,250,20,800,cash,Delivered,35,NULL,Unknown,Unknown,2025-01-08
+ORD00252,CUST1460,Rahul,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,40,10,252,"credit card",Delivered,25,2,Vikas,Unknown,2025-04-16
+ORD00253,CUST0221,Priya,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,1,75,5,71.25,"credit card",Cancelled,15,4,Rohit,Unknown,2025-06-29
+ORD00254,CUST0989,Unknown,Mumbai,Maharashtra,P010,"Surf Excel",household,7,75,10,472.5,cash,Delivered,NULL,3,Amit,Unknown,2025-03-18
+ORD00255,CUST0144,Aarav,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,3,75,15,191.25,cash,Pending,10,1,Amit,Unknown,2025-09-02
+ORD00256,CUST1796,Rohan,Delhi,Delhi,P011,"Colgate Toothpaste","personal care",5,35,0,175,wallet,Returned,75,2,Rahul,Unknown,2025-10-23
+ORD00257,CUST1385,Vishal,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,5,60,50,150,wallet,Unknown,45,NULL,Amit,Unknown,2025-10-30
+ORD00258,CUST1762,Neha,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,4,40,30,112,"debit card",Cancelled,25,NULL,Amit,Unknown,2025-02-08
+ORD00259,CUST1682,Aditi,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,6,40,10,216,"credit card",Delivered,90,1,Unknown,Unknown,2025-06-11
+ORD00261,CUST0206,Rohan,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,1,250,5,237.5,wallet,"Out for Delivery",18,4,Amit,Unknown,2025-12-19
+ORD00262,CUST0508,Aarav,Nashik,Maharashtra,P004,"Lays Magic Masala",snacks,4,75,NULL,NULL,unknown,Cancelled,18,NULL,Unknown,Unknown,2025-03-13
+ORD00263,CUST0706,Rahul,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,3,20,5,57,"credit card",Delivered,45,4,Rohit,Unknown,2025-11-22
+ORD00264,CUST0171,Unknown,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,7,50,20,280,wallet,Cancelled,55,3,Unknown,Unknown,2025-07-07
+ORD00265,CUST1575,Unknown,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",2,150,NULL,NULL,upi,Delivered,30,4,Unknown,9876543210,2025-07-26
+ORD00268,CUST0798,Karan,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,5,500,30,NULL,"credit card","Out for Delivery",55,4,Rahul,Unknown,2025-07-27
+ORD00269,CUST1193,Neha,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,1,20,0,20,upi,Unknown,55,5,Vikas,Unknown,2025-11-02
+ORD00270,CUST1789,Aarav,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",3,200,50,300,"credit card",Pending,NULL,NULL,Rahul,Unknown,2025-10-19
+ORD00271,CUST1694,Rohan,Mumbai,Maharashtra,P014,"Red Bull",beverages,4,25,NULL,105,"credit card",Returned,35,NULL,Unknown,Unknown,2025-03-07
+ORD00272,CUST1125,Aarav,Nashik,Maharashtra,P009,"Tata Salt",staples,2,20,NULL,42,unknown,Cancelled,25,5,Unknown,Unknown,2025-09-11
+ORD00273,CUST1511,Priya,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",2,250,20,400,upi,Delivered,22,NULL,Vikas,Unknown,2025-10-01
+ORD00274,CUST1474,Ananya,Delhi,Delhi,P007,"Maggi Noodles","instant food",1,50,25,37.5,unknown,"Out for Delivery",18,NULL,Unknown,Unknown,2025-05-14
+ORD00275,CUST0197,Rahul,Nagpur,Maharashtra,P015,"Mother Dairy Curd",dairy,7,500,NULL,NULL,upi,Returned,30,3,Unknown,Unknown,2025-11-26
+ORD00276,CUST0340,Rohan,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,500,5,3325,"debit card",Delivered,30,4,Vikas,Unknown,2025-06-28
+ORD00277,CUST0266,Unknown,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,1,25,0,25,wallet,Delivered,60,4,Rohit,Unknown,2025-04-20
+ORD00278,CUST0658,Sneha,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",7,120,30,588,wallet,Cancelled,18,2,Rohit,Unknown,2025-11-15
+ORD00279,CUST0850,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,500,0,2000,"debit card",Unknown,55,5,Rahul,Unknown,2025-10-28
+ORD00280,CUST0887,Aditi,Nashik,Maharashtra,P007,"Maggi Noodles","instant food",4,250,0,1000,upi,Returned,25,1,Unknown,Unknown,2025-10-02
+ORD00281,CUST1662,Rohan,Pune,Maharashtra,P012,"Dove Soap","personal care",3,250,30,525,"credit card",Delivered,45,5,Unknown,9876543210,2025-11-06
+ORD00282,CUST0919,Neha,Nagpur,Maharashtra,P007,"Maggi Noodles",unknown,7,20,15,119,upi,Cancelled,NULL,3,Priya,Unknown,2025-03-18
+ORD00283,CUST0649,Karan,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,5,500,0,2500,upi,Unknown,45,NULL,Rohit,Unknown,2025-11-09
+ORD00284,CUST1021,Aarav,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,3,75,15,191.25,cash,Unknown,90,4,Vikas,Unknown,2025-03-16
+ORD00285,CUST1150,Vishal,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,3,75,5,213.75,"credit card",Delivered,10,3,Amit,Unknown,2025-12-11
+ORD00286,CUST0045,Vishal,Mumbai,Maharashtra,P009,"Tata Salt",staples,3,75,NULL,236.25,wallet,Unknown,90,4,Amit,9876543210,2025-05-02
+ORD00288,CUST1188,Karan,Delhi,Delhi,P012,"Dove Soap","personal care",1,40,25,30,upi,Cancelled,25,4,Unknown,Unknown,2025-09-25
+ORD00289,CUST0799,Sneha,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,2,120,NULL,252,upi,"Out for Delivery",15,3,Priya,Unknown,2025-08-24
+ORD00291,CUST1727,Aditi,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,1,60,30,42,upi,"Out for Delivery",60,3,Vikas,Unknown,2025-01-07
+ORD00292,CUST1626,Rahul,Nashik,Maharashtra,P014,"Red Bull",beverages,3,90,5,256.5,unknown,Delivered,90,1,Rohit,Unknown,2025-02-23
+ORD00293,CUST1543,Aarav,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",4,75,50,150,upi,Cancelled,25,4,Unknown,9876543210,2025-08-07
+ORD00294,CUST0372,Aditi,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,5,500,0,2500,cash,Pending,NULL,2,Unknown,Unknown,2025-04-09
+ORD00295,CUST0702,Neha,Nagpur,Maharashtra,P008,"Aashirvaad Atta",staples,5,40,0,200,wallet,"Out for Delivery",15,2,Rohit,Unknown,2025-12-27
+ORD00296,CUST0310,Aarav,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,6,500,10,2700,unknown,Pending,55,2,Amit,9876543210,2025-12-23
+ORD00297,CUST1506,Rohan,Pune,Maharashtra,P005,"Coca Cola",beverages,5,40,5,190,"credit card","Out for Delivery",45,2,Amit,Unknown,2025-03-22
+ORD00298,CUST1446,Ananya,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,7,20,0,140,"credit card",Cancelled,10,NULL,Sneha,Unknown,2025-04-07
+ORD00299,CUST1488,Neha,Nashik,Maharashtra,P001,"Amul Taaza Milk",dairy,5,90,0,450,"credit card",Delivered,10,NULL,Rohit,Unknown,2025-12-28
+ORD00300,CUST0826,Ananya,Mumbai,Maharashtra,P010,"Surf Excel",household,7,90,20,504,unknown,Delivered,90,NULL,Unknown,Unknown,2025-03-12
+ORD00301,CUST1152,Rahul,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,1,90,25,67.5,wallet,Delivered,60,5,Rahul,Unknown,2025-11-24
+ORD00302,CUST0112,Aarav,Mumbai,Maharashtra,P014,"Red Bull",beverages,7,120,30,588,cash,Cancelled,18,2,Vikas,Unknown,2025-05-02
+ORD00304,CUST0108,Aarav,Mumbai,Maharashtra,P014,"Red Bull",beverages,6,75,5,427.5,"credit card",Cancelled,30,5,Amit,9876543210,2025-10-29
+ORD00306,CUST1697,Priya,Delhi,Delhi,P004,"Lays Magic Masala",snacks,2,250,NULL,525,"credit card","Out for Delivery",75,5,Rahul,Unknown,2025-04-07
+ORD00308,CUST0924,Rohan,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,4,500,NULL,2100,cash,Delivered,45,NULL,Priya,9876543210,2025-11-22
+ORD00309,CUST0229,Vishal,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,1,20,15,17,unknown,Delivered,15,5,Amit,Unknown,2025-12-18
+ORD00310,CUST1748,Unknown,Bengaluru,Karnataka,P014,"Red Bull",beverages,1,500,10,450,cash,Pending,45,NULL,Priya,Unknown,2025-03-23
+ORD00311,CUST1298,Sneha,Hyderabad,Telangana,P007,"Maggi Noodles","instant food",5,200,15,850,cash,Cancelled,75,5,Unknown,Unknown,2025-07-28
+ORD00312,CUST1332,Rohan,Hyderabad,Telangana,P014,"Red Bull",beverages,4,90,20,288,cash,Pending,40,NULL,Rahul,Unknown,2025-04-28
+ORD00314,CUST0282,Neha,Nagpur,Maharashtra,P002,"Amul Butter",dairy,2,120,25,180,"debit card",Delivered,60,4,Unknown,Unknown,2025-10-31
+ORD00315,CUST0784,Unknown,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,60,0,240,cash,Cancelled,18,4,Unknown,Unknown,2025-02-13
+ORD00316,CUST1093,Unknown,Delhi,Delhi,P005,"Coca Cola",beverages,7,50,15,297.5,"credit card",Returned,40,5,Amit,Unknown,2025-07-11
+ORD00317,CUST0547,Karan,Mumbai,Maharashtra,P006,Pepsi,beverages,4,75,0,300,upi,Cancelled,10,3,Rohit,Unknown,2025-01-14
+ORD00319,CUST1136,Karan,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,6,25,15,127.5,"credit card","Out for Delivery",35,4,Rohit,9876543210,2025-12-28
+ORD00320,CUST0086,Aditi,Pune,Maharashtra,P006,Pepsi,beverages,3,150,30,315,"debit card",Unknown,40,4,Sneha,9876543210,2025-05-25
+ORD00321,CUST1322,Sneha,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,2,150,50,150,upi,Delivered,90,4,Unknown,Unknown,2025-04-20
+ORD00322,CUST1250,Vishal,Nashik,Maharashtra,P014,"Red Bull",beverages,5,250,15,1062.5,wallet,Cancelled,22,NULL,Amit,9876543210,2025-09-03
+ORD00325,CUST0845,Karan,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,7,75,30,367.5,cash,Pending,22,1,Vikas,Unknown,2025-06-27
+ORD00326,CUST1261,Unknown,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,7,200,10,1260,wallet,Cancelled,55,NULL,Rohit,Unknown,2025-08-07
+ORD00327,CUST0284,Vishal,Nashik,Maharashtra,P002,"Amul Butter",dairy,5,75,NULL,393.75,cash,Delivered,25,4,Amit,9876543210,2025-07-16
+ORD00329,CUST0939,Karan,Nagpur,Maharashtra,P009,"Tata Salt",staples,6,40,50,120,upi,Pending,22,NULL,Unknown,Unknown,2025-03-04
+ORD00330,CUST0368,Aarav,Delhi,Delhi,P010,"Surf Excel","instant food",6,75,NULL,472.5,"debit card",Returned,45,NULL,Unknown,Unknown,2025-12-10
+ORD00331,CUST1263,Priya,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",2,75,30,105,upi,"Out for Delivery",22,NULL,Rahul,Unknown,2025-06-17
+ORD00332,CUST1017,Sneha,Delhi,Delhi,P007,"Maggi Noodles","instant food",5,90,10,405,cash,Delivered,NULL,4,Amit,Unknown,2025-05-04
+ORD00333,CUST0403,Karan,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,4,35,0,140,wallet,Pending,25,2,Vikas,Unknown,2025-07-25
+ORD00334,CUST1546,Priya,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,1,250,0,250,"debit card","Out for Delivery",25,1,Priya,Unknown,2025-05-08
+ORD00336,CUST0632,Priya,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,5,35,NULL,183.75,upi,Cancelled,90,5,Unknown,Unknown,2025-07-17
+ORD00337,CUST1222,Aditi,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,2,35,5,66.5,cash,Delivered,45,4,Rahul,9876543210,2025-03-28
+ORD00339,CUST0529,Aarav,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,1,250,50,125,cash,Delivered,90,3,Vikas,Unknown,2025-07-22
+ORD00340,CUST1071,Neha,Mumbai,Maharashtra,P006,Pepsi,beverages,2,200,0,400,cash,Delivered,NULL,5,Sneha,Unknown,2025-04-06
+ORD00342,CUST0678,Unknown,Delhi,Delhi,P009,"Tata Salt",staples,7,250,NULL,1837.5,unknown,Delivered,15,4,Sneha,Unknown,2025-03-29
+ORD00343,CUST0809,Rahul,Mumbai,Maharashtra,P007,"maggi noodles","instant food",2,60,0,120,upi,"Out for Delivery",15,5,Rohit,Unknown,2025-09-09
+ORD00344,CUST1603,Unknown,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",5,90,0,450,upi,Cancelled,25,3,Unknown,Unknown,2025-04-03
+ORD00345,CUST0152,Vishal,Pune,Maharashtra,P005,"Coca Cola",beverages,6,35,30,147,upi,Delivered,30,NULL,Rahul,9876543210,2025-09-16
+ORD00346,CUST1785,Neha,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",3,150,20,360,"credit card",Unknown,40,NULL,Rahul,Unknown,2025-03-07
+ORD00347,CUST1292,Rahul,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,5,35,5,166.25,"debit card",Pending,55,NULL,Vikas,Unknown,2025-12-19
+ORD00348,CUST0447,Ananya,Delhi,Delhi,P009,"Tata Salt",staples,4,75,25,225,upi,Returned,30,5,Vikas,Unknown,2025-08-14
+ORD00349,CUST1313,Rohan,Hyderabad,Telangana,P002,"Amul Butter",dairy,6,60,15,306,"credit card",Delivered,75,NULL,Amit,Unknown,2025-08-27
+ORD00350,CUST0350,Unknown,Hyderabad,Telangana,P012,"Dove Soap","personal care",5,75,10,337.5,"credit card",Cancelled,35,NULL,Unknown,Unknown,2025-11-11
+ORD00351,CUST1589,Aarav,Pune,Maharashtra,P003,"Britannia Bread",bakery,1,500,20,400,"credit card",Delivered,90,3,Vikas,Unknown,2025-06-03
+ORD00353,CUST1533,Sneha,Pune,Maharashtra,P002,"Amul Butter",dairy,4,60,NULL,252,unknown,Cancelled,10,5,Vikas,Unknown,2025-03-10
+ORD00354,CUST0255,Rohan,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",1,50,5,47.5,unknown,"Out for Delivery",25,NULL,Rohit,Unknown,2025-03-13
+ORD00355,CUST0456,Karan,Hyderabad,Telangana,P005,"Coca Cola",beverages,3,60,15,153,unknown,"Out for Delivery",45,2,Unknown,Unknown,2025-04-27
+ORD00357,CUST1244,Karan,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",2,40,50,40,cash,Unknown,10,NULL,Rohit,Unknown,2025-08-09
+ORD00358,CUST0006,Unknown,Pune,Maharashtra,P010,"Surf Excel",household,2,25,25,37.5,upi,Cancelled,10,4,Sneha,9876543210,2025-11-22
+ORD00359,CUST0105,Rahul,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,6,250,NULL,NULL,"credit card",Unknown,40,4,Amit,Unknown,2025-02-15
+ORD00360,CUST1754,Neha,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,200,0,400,upi,Delivered,35,NULL,Vikas,Unknown,2025-10-26
+ORD00361,CUST1026,Aarav,Delhi,Delhi,P005,"Coca Cola",beverages,4,250,0,1000,cash,Delivered,45,4,Rohit,Unknown,2025-05-12
+ORD00362,CUST1133,Rohan,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,4,40,15,136,unknown,Cancelled,22,5,Rahul,Unknown,2025-06-30
+ORD00363,CUST0671,Sneha,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,6,200,0,1200,upi,Cancelled,45,3,Sneha,Unknown,2025-02-18
+ORD00364,CUST0270,Ananya,Bengaluru,Karnataka,P010,"Surf Excel",household,2,150,NULL,NULL,upi,Unknown,22,4,Unknown,Unknown,2025-12-21
+ORD00365,CUST0682,Aditi,Mumbai,Maharashtra,P002,"Amul Butter",dairy,1,20,0,20,unknown,Cancelled,30,NULL,Amit,Unknown,2025-12-15
+ORD00367,CUST0386,Sneha,Delhi,Delhi,P007,"Maggi Noodles","instant food",4,35,25,105,unknown,Returned,NULL,NULL,Priya,Unknown,2025-03-09
+ORD00368,CUST1186,Unknown,Pune,Maharashtra,P007,"Maggi Noodles","instant food",3,500,5,1425,upi,Cancelled,55,NULL,Amit,9876543210,2025-03-12
+ORD00369,CUST0724,Ananya,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,2,500,20,800,"debit card",Cancelled,45,5,Rahul,9876543210,2025-01-03
+ORD00370,CUST0773,Neha,Nagpur,Maharashtra,P011,"Colgate Toothpaste","personal care",2,200,5,NULL,"credit card",Returned,25,3,Vikas,Unknown,2025-11-24
+ORD00371,CUST0965,Karan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,20,NULL,NULL,upi,Delivered,90,NULL,Rohit,Unknown,2025-05-13
+ORD00372,CUST0646,Neha,Hyderabad,Telangana,P002,"Amul Butter",dairy,3,120,30,252,upi,"Out for Delivery",30,5,Priya,Unknown,2025-06-15
+ORD00373,CUST0455,Rahul,Mumbai,Maharashtra,P009,"Tata Salt",staples,2,50,25,75,"credit card",Delivered,18,2,Unknown,Unknown,2025-03-30
+ORD00375,CUST0944,Vishal,Hyderabad,Telangana,P010,"Surf Excel",household,6,500,5,2850,"credit card",Delivered,10,NULL,Rohit,Unknown,2025-12-22
+ORD00377,CUST0356,Sneha,Delhi,Delhi,P004,"Lays Magic Masala",snacks,3,250,25,562.5,upi,Delivered,45,5,Amit,Unknown,2025-01-17
+ORD00378,CUST0673,Sneha,Nashik,Maharashtra,P012,"dove soap","personal care",4,200,25,600,cash,Cancelled,25,4,Vikas,Unknown,2025-06-23
+ORD00379,CUST1341,Rahul,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,2,60,50,60,upi,Cancelled,75,3,Amit,9876543210,2025-01-25
+ORD00380,CUST1229,Ananya,Mumbai,Maharashtra,P005,"Coca Cola",beverages,6,20,30,84,"debit card",Delivered,35,NULL,Unknown,9876543210,2025-11-05
+ORD00381,CUST1613,Karan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,5,60,50,150,upi,Pending,25,NULL,Vikas,Unknown,2025-01-15
+ORD00382,CUST0433,Neha,Mumbai,Maharashtra,P009,"Tata Salt",staples,3,20,NULL,63,"debit card",Delivered,90,3,Rahul,Unknown,2025-10-04
+ORD00383,CUST1725,Aarav,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,5,25,10,112.5,"credit card",Delivered,55,NULL,Amit,Unknown,2025-01-19
+ORD00384,CUST0524,Priya,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,1,120,20,96,"credit card",Pending,90,5,Rahul,Unknown,2025-01-21
+ORD00385,CUST1125,Aarav,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,2,120,NULL,252,"debit card",Cancelled,NULL,NULL,Unknown,Unknown,2025-08-14
+ORD00386,CUST1048,Unknown,Bengaluru,Karnataka,P014,"Red Bull",beverages,2,50,NULL,105,upi,Delivered,30,NULL,Unknown,Unknown,2025-12-13
+ORD00387,CUST0990,Karan,Pune,Maharashtra,P005,"Coca Cola",beverages,7,500,0,3500,upi,Returned,30,4,Amit,Unknown,2025-01-15
+ORD00388,CUST1437,Unknown,Nagpur,Maharashtra,P014,"Red Bull",beverages,6,150,5,855,"credit card",Unknown,35,5,Vikas,Unknown,2025-10-01
+ORD00389,CUST1039,Karan,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,4,25,25,75,upi,Delivered,18,3,Unknown,Unknown,2025-03-27
+ORD00390,CUST0512,Unknown,Mumbai,Maharashtra,P006,Pepsi,beverages,6,35,0,210,upi,"Out for Delivery",35,1,Priya,Unknown,2025-04-05
+ORD00392,CUST0746,Aarav,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",2,25,0,50,upi,Returned,22,NULL,Unknown,Unknown,2025-04-03
+ORD00393,CUST1306,Sneha,Delhi,Delhi,P012,"Dove Soap","personal care",7,75,0,525,upi,Cancelled,75,2,Priya,9876543210,2025-08-14
+ORD00394,CUST0872,Ananya,Mumbai,Maharashtra,P014,"Red Bull",beverages,2,150,5,285,upi,Pending,45,NULL,Unknown,Unknown,2025-09-20
+ORD00395,CUST1563,Aditi,Hyderabad,Telangana,P003,"Britannia Bread",bakery,7,250,15,1487.5,unknown,Delivered,18,5,Sneha,Unknown,2025-07-10
+ORD00396,CUST1643,Vishal,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,2,500,0,1000,upi,Delivered,10,NULL,Priya,Unknown,2025-08-09
+ORD00397,CUST0510,Rahul,Delhi,Delhi,P009,"Tata Salt",staples,2,25,50,25,"credit card",Returned,22,5,Amit,Unknown,2025-07-16
+ORD00398,CUST1675,Priya,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,6,60,30,252,"credit card",Unknown,NULL,NULL,Rahul,9876543210,2025-10-22
+ORD00399,CUST1229,Unknown,Bengaluru,Karnataka,P006,Pepsi,beverages,3,120,0,360,unknown,Unknown,45,1,Rahul,Unknown,2025-12-07
+ORD00400,CUST1035,Priya,Pune,Maharashtra,P010,"Surf Excel",household,6,75,30,315,"credit card",Pending,40,NULL,Sneha,Unknown,2025-06-13
+ORD00401,CUST1671,Aditi,Delhi,Delhi,P010,"Surf Excel",household,5,200,25,750,"credit card",Pending,40,NULL,Sneha,9876543210,2025-11-27
+ORD00402,CUST1452,Sneha,Bengaluru,Karnataka,P012,"Dove Soap","personal care",3,90,0,270,unknown,"Out for Delivery",45,NULL,Vikas,Unknown,2025-05-21
+ORD00403,CUST1323,Karan,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",6,35,25,157.5,unknown,Returned,10,NULL,Unknown,Unknown,2025-04-09
+ORD00404,CUST1405,Unknown,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,1,35,30,24.5,"credit card",Delivered,55,4,Unknown,Unknown,2025-05-03
+ORD00406,CUST0394,Neha,Delhi,Delhi,P006,Pepsi,beverages,3,40,15,102,cash,Delivered,60,3,Amit,Unknown,2025-11-28
+ORD00408,CUST0876,Ananya,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,2,500,0,1000,upi,Cancelled,55,4,Vikas,Unknown,2025-11-11
+ORD00409,CUST0872,Aarav,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,2,50,5,95,unknown,Pending,60,4,Rohit,Unknown,2025-08-01
+ORD00410,CUST0049,Rahul,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",1,75,NULL,78.75,cash,Cancelled,60,3,Sneha,9876543210,2025-10-20
+ORD00412,CUST1429,Unknown,Delhi,Maharastra,P008,"Aashirvaad Atta",staples,5,50,0,250,"credit card",Delivered,18,4,Priya,Unknown,2025-01-19
+ORD00413,CUST1350,Rahul,Nashik,Maharashtra,P009,"Tata Salt",staples,1,20,5,19,upi,Unknown,22,5,Rohit,9876543210,2025-06-14
+ORD00414,CUST0401,Rohan,Delhi,Delhi,P010,"Surf Excel",household,5,20,20,80,cash,Pending,30,4,Rahul,Unknown,2025-04-03
+ORD00415,CUST1703,Karan,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,5,90,10,405,upi,"Out for Delivery",15,1,Rohit,Unknown,2025-09-27
+ORD00416,CUST0141,Unknown,Mumbai,Maharashtra,P009,"Tata Salt",staples,6,90,5,513,upi,Returned,75,NULL,Rahul,Unknown,2025-08-06
+ORD00417,CUST0448,Rohan,Delhi,Delhi,P010,"Surf Excel",household,3,250,20,600,upi,"Out for Delivery",45,NULL,Amit,Unknown,2025-05-01
+ORD00418,CUST1624,Unknown,Nagpur,Maharashtra,P008,"Aashirvaad Atta",staples,6,500,20,2400,unknown,Delivered,75,NULL,Unknown,Unknown,2025-03-20
+ORD00419,CUST1316,Unknown,Bengaluru,Karnataka,P009,"Tata Salt",staples,2,90,30,126,"credit card",Delivered,30,2,Unknown,Unknown,2025-10-16
+ORD00420,CUST1645,Karan,Bengaluru,Karnataka,P009,"Tata Salt",staples,2,25,25,37.5,"credit card","Out for Delivery",22,3,Rohit,Unknown,2025-05-18
+ORD00421,CUST1419,Vishal,Nagpur,Maharashtra,P005,"Coca Cola",beverages,4,500,25,1500,cash,Cancelled,10,2,Priya,Unknown,2025-09-14
+ORD00422,CUST0311,Unknown,Mumbai,Unknown,P006,Pepsi,beverages,2,25,20,40,unknown,Delivered,10,5,Sneha,Unknown,2025-10-07
+ORD00423,CUST0910,Ananya,Mumbai,Maharashtra,P010,"Surf Excel",household,3,20,30,42,"credit card",Delivered,35,4,Rohit,Unknown,2025-02-11
+ORD00425,CUST0165,Priya,Mumbai,Maharahstra,P013,"Haldiram's Bhujia",snacks,5,20,0,100,wallet,Delivered,40,3,Vikas,Unknown,2025-07-11
+ORD00426,CUST0706,Karan,Pune,Maharashtra,P012,"Dove Soap","personal care",3,120,25,270,"credit card",Unknown,45,3,Unknown,Unknown,2025-02-27
+ORD00427,CUST0919,Karan,Nagpur,Maharashtra,P002,"Amul Butter",dairy,7,120,0,840,cash,Cancelled,45,2,Vikas,Unknown,2025-04-15
+ORD00428,CUST1690,Aarav,Mumbai,Maharashtra,P006,Pepsi,beverages,4,35,30,98,cash,Cancelled,15,4,Amit,9876543210,2025-03-26
+ORD00429,CUST0546,Aarav,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,60,10,108,upi,Delivered,90,4,Vikas,Unknown,2025-02-02
+ORD00431,CUST1196,Sneha,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",7,35,30,171.5,unknown,Delivered,75,3,Sneha,Unknown,2025-08-09
+ORD00432,CUST1190,Rohan,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,5,25,50,62.5,cash,Pending,35,NULL,Rahul,Unknown,2025-04-27
+ORD00433,CUST1203,Neha,Delhi,Delhi,P014,"Red Bull",beverages,1,90,NULL,NULL,wallet,Delivered,55,NULL,Amit,9876543210,2025-11-15
+ORD00434,CUST0668,Ananya,Delhi,Delhi,P005,"Coca Cola",beverages,6,25,30,105,upi,Unknown,55,3,Amit,Unknown,2025-06-18
+ORD00435,CUST0382,Aarav,Mumbai,Maharashtra,P012,"Dove Soap","personal care",5,20,5,95,"credit card",Returned,NULL,4,Amit,Unknown,2025-11-27
+ORD00436,CUST1234,Unknown,Pune,Maharashtra,P012,"Dove Soap","personal care",7,35,5,232.75,cash,Cancelled,45,3,Priya,Unknown,2025-09-10
+ORD00438,CUST0088,Vishal,Bengaluru,Karnataka,P012,"Dove Soap","personal care",5,25,NULL,131.25,unknown,Delivered,NULL,4,Rahul,9876543210,2025-03-18
+ORD00440,CUST1223,Rohan,Bengaluru,Karnataka,P014,"Red Bull",beverages,1,60,0,60,cash,Delivered,45,3,Unknown,Unknown,2025-08-22
+ORD00441,CUST0073,Aditi,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,1,90,20,72,wallet,Delivered,30,5,Priya,Unknown,2025-12-09
+ORD00442,CUST1511,Karan,Pune,Maharashtra,P005,"Coca Cola",beverages,7,35,50,122.5,wallet,Pending,25,4,Amit,Unknown,2025-08-07
+ORD00443,CUST0279,Unknown,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",3,40,0,120,cash,Delivered,35,3,Unknown,Unknown,2025-01-09
+ORD00444,CUST0359,Vishal,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,2,150,10,270,cash,Cancelled,25,3,Rahul,Unknown,2025-05-29
+ORD00445,CUST0433,Rohan,Mumbai,Maharashtra,P009,"Tata Salt","instant food",7,90,25,472.5,cash,Cancelled,40,NULL,Amit,Unknown,2025-10-07
+ORD00447,CUST0736,Unknown,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",4,500,0,2000,wallet,Cancelled,NULL,5,Unknown,Unknown,2025-12-12
+ORD00448,CUST1041,Ananya,Nagpur,Maharashtra,P002,"Amul Butter",dairy,7,60,25,NULL,unknown,Pending,22,5,Sneha,Unknown,2025-05-18
+ORD00449,CUST0631,Vishal,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,5,90,0,450,"credit card",Returned,NULL,4,Priya,Unknown,2025-10-26
+ORD00450,CUST1246,Ananya,Delhi,Delhi,P014,"Red Bull",beverages,2,200,0,400,wallet,Pending,30,4,Rahul,Unknown,2025-10-05
+ORD00451,CUST0131,Sneha,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,1,35,30,24.5,"credit card",Delivered,18,4,Unknown,9876543210,2025-10-04
+ORD00452,CUST0659,Karan,Delhi,Delhi,P009,"Tata Salt",staples,5,40,0,200,"debit card",Delivered,25,NULL,Priya,Unknown,2025-09-28
+ORD00453,CUST0122,Ananya,Nagpur,Maharashtra,P014,"Red Bull",beverages,2,250,10,450,upi,Delivered,90,NULL,Rahul,Unknown,2025-01-26
+ORD00454,CUST0710,Neha,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,5,75,5,356.25,unknown,"Out for Delivery",15,5,Rohit,Unknown,2025-04-09
+ORD00457,CUST0060,Aarav,Delhi,Delhi,P008,"Aashirvaad Atta",staples,6,75,10,405,"debit card",Cancelled,NULL,4,Vikas,Unknown,2025-09-27
+ORD00458,CUST0747,Unknown,Delhi,Delhi,P008,"Aashirvaad Atta",staples,7,150,15,892.5,upi,Cancelled,90,5,Rohit,Unknown,2025-03-15
+ORD00459,CUST0325,Unknown,Mumbai,Maharashtra,P010,"Surf Excel",household,2,25,0,50,upi,Cancelled,30,1,Unknown,9876543210,2025-10-15
+ORD00460,CUST0569,Rahul,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,1,250,15,212.5,unknown,Delivered,55,NULL,Amit,Unknown,2025-11-24
+ORD00462,CUST1728,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,1,60,0,60,wallet,Delivered,90,NULL,Vikas,Unknown,2025-04-04
+ORD00463,CUST1365,Ananya,Delhi,Delhi,P004,"Lays Magic Masala",snacks,7,120,NULL,NULL,"credit card","Out for Delivery",90,1,Vikas,Unknown,2025-05-15
+ORD00464,CUST0115,Unknown,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,5,150,50,375,cash,Cancelled,NULL,NULL,Amit,Unknown,2025-10-29
+ORD00465,CUST1190,Rahul,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,3,25,NULL,78.75,"credit card",Unknown,35,1,Priya,Unknown,2025-05-17
+ORD00466,CUST0616,Aarav,Delhi,Delhi,P002,"Amul Butter",dairy,2,200,0,400,unknown,"Out for Delivery",25,NULL,Priya,Unknown,2025-03-02
+ORD00468,CUST0052,Rahul,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,2,90,15,153,unknown,Returned,NULL,4,Unknown,9876543210,2025-03-08
+ORD00470,CUST0663,Priya,Bengaluru,Karnataka,P005,"Coca Cola",beverages,2,120,NULL,252,"credit card",Delivered,75,4,Rohit,Unknown,2025-08-17
+ORD00471,CUST0334,Aarav,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,5,60,0,300,cash,Returned,30,5,Amit,Unknown,2025-05-22
+ORD00472,CUST0589,Neha,Bengaluru,Karnataka,P012,"Dove Soap","personal care",3,75,0,225,upi,Returned,35,NULL,Vikas,Unknown,2025-02-21
+ORD00473,CUST0965,Aarav,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,4,25,15,85,upi,Returned,22,1,Sneha,Unknown,2025-05-05
+ORD00474,CUST1709,Vishal,Mumbai,Maharashtra,P014,"Red Bull",beverages,7,40,NULL,294,upi,Delivered,45,NULL,Amit,Unknown,2025-08-06
+ORD00475,CUST0408,Ananya,Pune,Maharashtra,P003,"Britannia Bread",bakery,1,60,NULL,NULL,wallet,Unknown,40,4,Rahul,Unknown,2025-07-18
+ORD00476,CUST0245,Ananya,Bengaluru,Karnataka,P009,"Tata Salt",staples,1,20,NULL,21,cash,Cancelled,30,5,Rahul,Unknown,2025-12-07
+ORD00477,CUST0854,Rahul,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,7,20,25,105,cash,Cancelled,75,5,Unknown,Unknown,2025-04-20
+ORD00479,CUST1147,Sneha,Delhi,Delhi,P007,"Maggi Noodles","instant food",5,200,0,1000,"credit card",Returned,55,3,Priya,9876543210,2025-07-23
+ORD00480,CUST0885,Unknown,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",7,60,50,210,upi,Cancelled,60,5,Unknown,Unknown,2025-04-21
+ORD00481,CUST1293,Priya,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,3,20,50,30,upi,Returned,90,2,Amit,Unknown,2025-09-18
+ORD00482,CUST1221,Neha,Bengaluru,Karnataka,P002,"Amul Butter",dairy,5,500,25,1875,"credit card",Cancelled,90,5,Rahul,Unknown,2025-01-23
+ORD00484,CUST1232,Aarav,Hyderabad,Telangana,P015,"Mother Dairy Curd",dairy,5,500,30,1750,"credit card",Returned,90,1,Priya,Unknown,2025-09-23
+ORD00485,CUST0740,Rahul,Bengaluru,Karnataka,P014,"Red Bull",beverages,7,25,NULL,NULL,cash,Delivered,75,NULL,Rahul,9876543210,2025-08-20
+ORD00486,CUST1389,Rahul,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,1,50,15,42.5,wallet,Cancelled,18,4,Vikas,Unknown,2025-06-13
+ORD00487,CUST1340,Aditi,Mumbai,Maharashtra,P005,"Coca Cola",beverages,7,200,20,1120,"debit card","Out for Delivery",10,3,Unknown,Unknown,2025-11-26
+ORD00488,CUST0721,Vishal,Delhi,Delhi,P004,"Lays Magic Masala",snacks,3,90,50,135,"debit card",Cancelled,60,NULL,Unknown,Unknown,2025-04-17
+ORD00489,CUST1656,Rohan,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,150,0,300,wallet,Delivered,30,NULL,Rohit,9876543210,2025-10-08
+ORD00491,CUST1738,Aarav,Nagpur,Delhi,P013,"Haldiram's Bhujia",snacks,5,150,0,750,unknown,Delivered,90,5,Vikas,Unknown,2025-03-12
+ORD00492,CUST0260,Unknown,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,4,60,20,192,cash,Cancelled,25,3,Unknown,9876543210,2025-12-13
+ORD00493,CUST0798,Neha,Bengaluru,Karnataka,P009,"Tata Salt",staples,7,20,5,133,unknown,Delivered,75,NULL,Rahul,Unknown,2025-06-04
+ORD00494,CUST1607,Aarav,Pune,Maharashtra,P012,"Dove Soap","personal care",3,200,0,600,upi,Cancelled,30,4,Rohit,Unknown,2025-09-02
+ORD00495,CUST1425,Ananya,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,3,200,0,600,unknown,Unknown,35,2,Unknown,Unknown,2025-04-15
+ORD00496,CUST1320,Rohan,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,7,500,30,2450,unknown,Delivered,90,NULL,Amit,Unknown,2025-06-14
+ORD00498,CUST0543,Unknown,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,5,20,50,50,cash,Cancelled,90,4,Priya,Unknown,2025-07-26
+ORD00499,CUST0307,Neha,Nashik,Maharashtra,P003,"Britannia Bread",bakery,5,90,50,225,upi,Delivered,18,NULL,Unknown,Unknown,2025-11-29
+ORD00500,CUST0538,Priya,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,7,250,20,1400,cash,Cancelled,60,2,Unknown,Unknown,2025-08-23
+ORD00501,CUST1615,Unknown,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,6,90,25,405,unknown,Pending,40,1,Priya,Unknown,2025-01-19
+ORD00502,CUST0676,Vishal,Nagpur,Maharashtra,P008,"Aashirvaad Atta",staples,6,35,20,168,cash,Pending,55,NULL,Sneha,Unknown,2025-06-03
+ORD00503,CUST0133,Ananya,Nashik,Maharashtra,P005,"Coca Cola",beverages,3,35,15,89.25,unknown,"Out for Delivery",45,1,Unknown,9876543210,2025-06-07
+ORD00504,CUST0995,Aditi,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,7,500,5,3325,wallet,Delivered,75,5,Amit,Unknown,2025-01-08
+ORD00505,CUST1459,Aditi,Bengaluru,Karnataka,P009,"Tata Salt",staples,6,25,NULL,157.5,"debit card",Delivered,22,3,Rahul,Unknown,2025-09-06
+ORD00506,CUST1265,Karan,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,7,90,0,630,wallet,Cancelled,35,NULL,Priya,Unknown,2025-06-12
+ORD00507,CUST0869,Unknown,Bengaluru,Karnataka,P006,Pepsi,beverages,3,250,0,750,"credit card",Delivered,15,3,Rahul,Unknown,2025-05-05
+ORD00508,CUST1138,Aarav,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,3,20,30,42,upi,"Out for Delivery",NULL,NULL,Unknown,Unknown,2025-02-02
+ORD00509,CUST0086,Unknown,Delhi,Delhi,P004,"Lays Magic Masala",snacks,6,200,15,NULL,upi,Delivered,22,1,Amit,Unknown,2025-10-06
+ORD00511,CUST0208,Vishal,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",5,35,10,157.5,unknown,Cancelled,55,NULL,Sneha,Unknown,2025-08-09
+ORD00512,CUST1139,Rahul,Delhi,Delhi,P005,"Coca Cola",beverages,2,150,20,240,"credit card",Unknown,35,2,Unknown,9876543210,2025-08-16
+ORD00513,CUST1397,Sneha,Mumbai,Maharashtra,P009,"Tata Salt",staples,7,500,NULL,NULL,cash,"Out for Delivery",15,NULL,Vikas,Unknown,2025-02-08
+ORD00514,CUST0253,Unknown,Pune,Maharashtra,P010,"Surf Excel",household,5,150,5,712.5,upi,Delivered,40,NULL,Vikas,Unknown,2025-05-30
+ORD00515,CUST0679,Karan,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,3,500,30,1050,upi,Delivered,40,3,Unknown,9876543210,2025-07-24
+ORD00516,CUST1342,Vishal,Delhi,Delhi,P002,"Amul Butter",dairy,2,90,5,171,wallet,Pending,18,1,Unknown,Unknown,2025-11-17
+ORD00517,CUST1107,Aarav,Delhi,Delhi,P008,"Aashirvaad Atta",staples,7,20,NULL,147,"credit card",Returned,15,5,Unknown,Unknown,2025-11-08
+ORD00520,CUST0719,Rahul,Mumbai,Maharashtra,P014,"Red Bull",beverages,5,40,20,160,cash,Cancelled,90,2,Vikas,Unknown,2025-03-12
+ORD00521,CUST0803,Karan,Delhi,Delhi,P004,"Lays Magic Masala",snacks,4,20,NULL,84,upi,Pending,40,5,Sneha,Unknown,2025-08-10
+ORD00523,CUST0646,Karan,Nagpur,Maharashtra,P010,"Surf Excel",household,5,250,15,1062.5,upi,Returned,90,5,Rohit,Unknown,2025-05-19
+ORD00525,CUST0311,Vishal,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,7,120,30,588,"credit card","Out for Delivery",75,3,Vikas,Unknown,2025-02-27
+ORD00526,CUST0170,Rohan,Nagpur,Maharashtra,P011,"Colgate Toothpaste","personal care",1,25,15,21.25,"debit card",Pending,55,4,Amit,Unknown,2025-09-17
+ORD00528,CUST0166,Vishal,Mumbai,Maharashtra,P006,Pepsi,beverages,3,20,10,54,upi,Pending,55,2,Unknown,Unknown,2025-12-03
+ORD00529,CUST1613,Rahul,Bengaluru,Karnataka,P014,"Red Bull",beverages,7,250,20,1400,cash,Delivered,90,4,Rahul,Unknown,2025-12-09
+ORD00530,CUST1700,Sneha,Hyderabad,Telangana,P015,"Mother Dairy Curd",dairy,5,50,20,200,upi,Pending,30,4,Sneha,Unknown,2025-08-09
+ORD00531,CUST1409,Karan,Nashik,Maharashtra,P007,"Maggi Noodles","instant food",3,250,NULL,787.5,"credit card",Cancelled,25,3,Unknown,Unknown,2025-10-27
+ORD00532,CUST0005,Priya,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,6,200,15,1020,unknown,Cancelled,22,3,Vikas,Unknown,2025-07-27
+ORD00533,CUST0793,Vishal,Bengaluru,Karnataka,P014,"Red Bull",beverages,6,90,0,540,"debit card",Unknown,35,3,Amit,Unknown,2025-02-13
+ORD00534,CUST1633,Unknown,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,1,60,25,45,upi,Cancelled,NULL,NULL,Vikas,Unknown,2025-08-03
+ORD00535,CUST0955,Ananya,Bengaluru,Karnataka,P010,"Surf Excel",household,5,75,20,300,unknown,Cancelled,75,NULL,Sneha,Unknown,2025-08-06
+ORD00536,CUST0977,Unknown,Mumbai,Maharashtra,P002,"Amul Butter",dairy,4,90,15,306,unknown,"Out for Delivery",55,5,Vikas,Unknown,2025-06-04
+ORD00538,CUST1493,Ananya,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,1,200,10,180,cash,Unknown,18,5,Amit,9876543210,2025-01-26
+ORD00539,CUST0317,Unknown,Nashik,Maharashtra,P012,"Dove Soap","personal care",1,90,10,81,unknown,Delivered,30,4,Vikas,Unknown,2025-02-22
+ORD00540,CUST0298,Karan,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",7,500,50,1750,cash,Cancelled,60,4,Vikas,Unknown,2025-01-15
+ORD00541,CUST0732,Rahul,Pune,Maharashtra,P003,"Britannia Bread",bakery,2,50,20,80,wallet,Cancelled,55,NULL,Unknown,Unknown,2025-09-12
+ORD00542,CUST0225,Neha,Nagpur,Maharashtra,P011,"Colgate Toothpaste","personal care",4,120,20,384,wallet,Cancelled,30,4,Rahul,Unknown,2025-09-04
+ORD00544,CUST0462,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,5,20,0,100,unknown,Pending,15,NULL,Unknown,Unknown,2025-05-20
+ORD00545,CUST0111,Ananya,Hyderabad,Telangana,P003,"Britannia Bread",bakery,3,35,5,99.75,upi,Delivered,22,5,Unknown,Unknown,2025-06-15
+ORD00546,CUST1735,Karan,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",4,35,NULL,147,upi,Delivered,22,4,Priya,Unknown,2025-09-07
+ORD00547,CUST0187,Neha,Nagpur,Maharashtra,P010,"Surf Excel",household,3,60,25,135,"credit card",Delivered,35,4,Sneha,Unknown,2025-08-31
+ORD00548,CUST0147,Unknown,Delhi,Delhi,P011,"Colgate Toothpaste","personal care",3,20,20,48,unknown,Returned,35,5,Rahul,Unknown,2025-01-20
+ORD00549,CUST1019,Rohan,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,7,250,30,1225,cash,"Out for Delivery",30,5,Rohit,9876543210,2025-12-08
+ORD00550,CUST1637,Vishal,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,5,35,NULL,183.75,cash,Delivered,45,5,Unknown,Unknown,2025-03-01
+ORD00551,CUST0286,Aditi,Nashik,Maharashtra,P001,"amul taaza milk",dairy,4,90,30,252,wallet,Returned,22,3,Vikas,9876543210,2025-01-12
+ORD00552,CUST0988,Rohan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,3,250,50,375,upi,"Out for Delivery",15,3,Amit,Unknown,2025-10-29
+ORD00554,CUST1527,Karan,Pune,Maharashtra,P014,"Red Bull",beverages,6,250,NULL,1575,upi,Cancelled,NULL,3,Priya,Unknown,2025-05-24
+ORD00555,CUST0261,Neha,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,4,40,30,112,upi,"Out for Delivery",75,3,Rohit,Unknown,2025-06-09
+ORD00556,CUST1044,Neha,Nagpur,Maharashtra,P002,"amul butter",dairy,4,500,25,1500,upi,Pending,22,NULL,Vikas,Unknown,2025-05-13
+ORD00557,CUST0070,Neha,Mumbai,Maharashtra,P006,Pepsi,beverages,2,200,20,320,"credit card",Cancelled,30,NULL,Unknown,Unknown,2025-04-14
+ORD00558,CUST0731,Neha,Nagpur,Maharashtra,P013,"Haldiram's Bhujia",snacks,6,250,10,1350,unknown,Delivered,NULL,3,Rohit,Unknown,2025-07-15
+ORD00559,CUST1471,Neha,Pune,Maharashtra,P010,"Surf Excel",household,2,90,20,144,upi,Delivered,75,3,Unknown,Unknown,2025-08-21
+ORD00560,CUST0687,Ananya,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,2,500,0,1000,cash,Returned,55,NULL,Unknown,Unknown,2025-11-27
+ORD00561,CUST0418,Priya,Delhi,Delhi,P004,"Lays Magic Masala",snacks,1,120,30,84,cash,Delivered,90,2,Priya,Unknown,2025-02-25
+ORD00563,CUST0095,Neha,Delhi,Delhi,P006,Pepsi,beverages,3,20,NULL,63,upi,"Out for Delivery",75,NULL,Unknown,Unknown,2025-01-25
+ORD00564,CUST1330,Rohan,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,1,25,0,25,cash,Cancelled,40,4,Rahul,Unknown,2025-02-09
+ORD00565,CUST0861,Ananya,Mumbai,Maharashtra,P005,"Coca Cola",beverages,5,40,0,200,unknown,Cancelled,75,5,Rahul,Unknown,2025-12-20
+ORD00566,CUST0113,Priya,Delhi,Delhi,P006,Pepsi,beverages,3,75,0,225,"credit card",Pending,10,4,Unknown,9876543210,2025-09-04
+ORD00567,CUST0875,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,250,5,950,cash,Cancelled,90,3,Vikas,Unknown,2025-07-27
+ORD00568,CUST0397,Ananya,Pune,Maharashtra,P009,"Tata Salt",staples,7,25,20,140,upi,Delivered,35,5,Rahul,9876543210,2025-03-20
+ORD00569,CUST1478,Vishal,Pune,Maharashtra,P007,"Maggi Noodles","instant food",2,35,5,66.5,"credit card",Pending,45,NULL,Unknown,Unknown,2025-12-19
+ORD00570,CUST1202,Aditi,Nagpur,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,150,0,600,wallet,Delivered,25,3,Rohit,Unknown,2025-09-03
+ORD00571,CUST0476,Neha,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,7,200,0,1400,cash,Returned,35,5,Unknown,Unknown,2025-02-03
+ORD00572,CUST0592,Unknown,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,200,50,400,"credit card",Delivered,40,3,Rahul,Unknown,2025-11-22
+ORD00573,CUST1382,Vishal,Mumbai,Maharashtra,P010,"Surf Excel",household,5,50,50,125,"debit card",Cancelled,15,NULL,Rahul,Unknown,2025-08-15
+ORD00574,CUST1081,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,6,250,5,1425,"credit card",Delivered,30,1,Vikas,Unknown,2025-05-30
+ORD00575,CUST0943,Rohan,Mumbai,Maharashtra,P014,"Red Bull",beverages,4,35,NULL,NULL,unknown,Returned,35,1,Unknown,Unknown,2025-11-17
+ORD00576,CUST1041,Sneha,Nashik,Maharashtra,P004,"Lays Magic Masala",snacks,2,250,0,500,unknown,Delivered,55,NULL,Vikas,Unknown,2025-07-07
+ORD00577,CUST0899,Sneha,Mumbai,Maharashtra,P002,"Amul Butter",dairy,7,20,NULL,147,wallet,Delivered,60,NULL,Sneha,Unknown,2025-12-27
+ORD00578,CUST0201,Vishal,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,35,NULL,147,unknown,Delivered,35,4,Vikas,Unknown,2025-10-02
+ORD00580,CUST0772,Vishal,Mumbai,Maharashtra,P009,"Tata Salt",staples,6,60,NULL,NULL,upi,Delivered,NULL,NULL,Vikas,Unknown,2025-06-29
+ORD00581,CUST1603,Unknown,Nashik,Maharashtra,P006,Pepsi,beverages,5,150,50,NULL,unknown,Delivered,18,3,Sneha,Unknown,2025-10-02
+ORD00582,CUST0824,Vishal,Mumbai,Maharashtra,P011,"Colgate Toothpaste",unknown,6,250,NULL,NULL,"credit card",Cancelled,18,4,Priya,Unknown,2025-05-27
+ORD00583,CUST0667,Unknown,Nagpur,Maharashtra,P006,Pepsi,beverages,3,60,0,180,"debit card",Pending,25,5,Unknown,Unknown,2025-08-28
+ORD00584,CUST0431,Sneha,Nashik,Maharashtra,P003,"Britannia Bread",bakery,3,120,30,252,cash,Delivered,10,3,Amit,Unknown,2025-03-31
+ORD00586,CUST1198,Unknown,Pune,Maharashtra,P006,Pepsi,beverages,1,50,20,40,"debit card",Returned,NULL,1,Vikas,Unknown,2025-10-04
+ORD00587,CUST1408,Vishal,Hyderabad,Telangana,P011,"Colgate Toothpaste","personal care",4,50,20,160,unknown,Cancelled,60,5,Amit,Unknown,2025-10-05
+ORD00588,CUST0272,Ananya,Bengaluru,Karnataka,P006,Pepsi,beverages,1,60,5,57,cash,Cancelled,60,1,Vikas,Unknown,2025-03-23
+ORD00589,CUST1141,Unknown,Nashik,Maharashtra,P004,"Lays Magic Masala",snacks,5,200,50,500,unknown,Returned,45,1,Unknown,Unknown,2025-03-11
+ORD00590,CUST1180,Aditi,Delhi,Delhi,P008,"Aashirvaad Atta",staples,2,20,NULL,42,upi,Cancelled,75,3,Unknown,Unknown,2025-11-25
+ORD00591,CUST1712,Unknown,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,90,NULL,378,wallet,Pending,NULL,4,Unknown,9876543210,2025-02-11
+ORD00593,CUST0176,Rohan,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,1,150,0,150,wallet,Cancelled,30,4,Rahul,Unknown,2025-09-16
+ORD00594,CUST1671,Sneha,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,6,60,20,288,unknown,Cancelled,90,1,Sneha,Unknown,2025-09-26
+ORD00595,CUST1300,Neha,Pune,Maharashtra,P009,"Tata Salt",staples,1,200,20,160,cash,Unknown,30,NULL,Unknown,Unknown,2025-07-29
+ORD00596,CUST0181,Karan,Bengaluru,Karnataka,P006,Pepsi,beverages,6,200,30,840,unknown,Cancelled,10,NULL,Sneha,9876543210,2025-10-19
+ORD00597,CUST1348,Aarav,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,5,500,25,1875,wallet,Delivered,60,5,Vikas,Unknown,2025-01-09
+ORD00598,CUST0963,Rohan,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,3,60,25,NULL,unknown,Cancelled,40,4,Rahul,Unknown,2025-09-23
+ORD00600,CUST1101,Rohan,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,3,40,NULL,126,cash,Delivered,90,NULL,Vikas,Unknown,2025-03-23
+ORD00601,CUST0802,Neha,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,3,200,0,600,"credit card",Delivered,90,3,Sneha,Unknown,2025-09-11
+ORD00602,CUST1239,Sneha,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,7,20,5,133,upi,Cancelled,55,1,Amit,Unknown,2025-04-16
+ORD00603,CUST1544,Aarav,Bengaluru,Karnataka,P014,"Red Bull",beverages,3,250,NULL,787.5,"credit card","Out for Delivery",10,2,Amit,Unknown,2025-09-25
+ORD00604,CUST1233,Karan,Delhi,Delhi,P006,Pepsi,beverages,3,120,NULL,NULL,upi,Returned,30,NULL,Rohit,Unknown,2025-08-15
+ORD00605,CUST0849,Ananya,Pune,Maharashtra,P010,"Surf Excel",household,5,150,30,525,cash,Delivered,15,5,Sneha,Unknown,2025-08-03
+ORD00606,CUST0634,Sneha,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,5,250,25,937.5,upi,Unknown,55,5,Vikas,9876543210,2025-01-08
+ORD00607,CUST1440,Rahul,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",4,500,30,1400,"credit card",Delivered,55,4,Unknown,Unknown,2025-06-25
+ORD00609,CUST0949,Rohan,Mumbai,Maharashtra,P009,"Tata Salt",staples,2,40,NULL,NULL,upi,Delivered,60,NULL,Rohit,9876543210,2025-11-18
+ORD00610,CUST1357,Unknown,Delhi,Delhi,P002,"Amul Butter",dairy,7,250,NULL,NULL,upi,Delivered,45,4,Unknown,Unknown,2025-01-21
+ORD00611,CUST1409,Neha,Pune,Maharashtra,P003,"Britannia Bread",bakery,5,25,15,106.25,cash,Cancelled,10,NULL,Sneha,Unknown,2025-08-29
+ORD00612,CUST1021,Rahul,Bengaluru,Karnataka,P014,"Red Bull",beverages,2,90,0,180,cash,Pending,25,2,Sneha,Unknown,2025-02-15
+ORD00613,CUST0300,Rahul,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,5,90,15,382.5,cash,"Out for Delivery",22,NULL,Priya,Unknown,2025-10-12
+ORD00615,CUST0451,Unknown,Delhi,Delhi,P014,"Red Bull",beverages,1,20,50,10,unknown,Returned,45,4,Unknown,Unknown,2025-07-23
+ORD00617,CUST0393,Rohan,Bengaluru,Karnataka,P009,"Tata Salt",staples,4,50,NULL,NULL,upi,Unknown,90,2,Vikas,9876543210,2025-04-19
+ORD00618,CUST1700,Priya,Delhi,Delhi,P002,"Amul Butter",dairy,6,120,10,648,"debit card",Delivered,15,4,Unknown,Unknown,2025-07-20
+ORD00619,CUST0640,Priya,Hyderabad,Telangana,P009,"Tata Salt",staples,3,150,10,405,upi,Delivered,NULL,5,Amit,Unknown,2025-08-03
+ORD00621,CUST1397,Vishal,Nagpur,Maharashtra,P009,"Tata Salt",staples,2,250,25,375,"credit card","Out for Delivery",25,5,Vikas,Unknown,2025-05-08
+ORD00622,CUST0929,Rohan,Bengaluru,Karnataka,P014,"Red Bull",beverages,7,120,15,714,"credit card",Delivered,15,NULL,Sneha,9876543210,2025-09-19
+ORD00623,CUST1305,Unknown,Bengaluru,Karnataka,P014,"Red Bull",beverages,1,90,0,90,"debit card",Delivered,NULL,NULL,Priya,Unknown,2025-10-16
+ORD00625,CUST0992,Vishal,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,3,120,NULL,378,upi,Unknown,90,2,Amit,Unknown,2025-09-30
+ORD00627,CUST0335,Karan,Hyderabad,Telangana,P012,"Dove Soap","personal care",2,25,50,25,unknown,Pending,40,NULL,Vikas,Unknown,2025-03-09
+ORD00628,CUST1747,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,6,250,0,1500,unknown,Delivered,15,5,Unknown,Unknown,2025-05-14
+ORD00629,CUST1701,Neha,Nagpur,Maharashtra,P005,"Coca Cola",beverages,6,75,5,427.5,wallet,Delivered,18,1,Rohit,Unknown,2025-12-20
+ORD00630,CUST1391,Unknown,Delhi,Delhi,P008,"Aashirvaad Atta",staples,1,25,50,12.5,upi,Unknown,25,2,Rohit,Unknown,2025-09-30
+ORD00632,CUST0328,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,250,NULL,NULL,upi,Cancelled,90,2,Rahul,9876543210,2025-09-08
+ORD00633,CUST1773,Priya,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,3,150,30,315,upi,Cancelled,22,3,Unknown,9876543210,2025-07-08
+ORD00634,CUST1176,Rohan,Pune,Maharashtra,P002,"Amul Butter",dairy,3,20,15,51,cash,Cancelled,NULL,NULL,Amit,Unknown,2025-04-19
+ORD00635,CUST1527,Unknown,Nashik,Maharashtra,P014,"Red Bull",beverages,4,60,5,228,"debit card","Out for Delivery",15,1,Rohit,Unknown,2025-06-14
+ORD00637,CUST0407,Aditi,Mumbai,Maharashtra,P015,"mother dairy curd",dairy,4,75,50,150,"credit card",Delivered,NULL,4,Amit,Unknown,2025-07-01
+ORD00640,CUST1554,Unknown,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,4,50,0,200,upi,"Out for Delivery",90,4,Priya,Unknown,2025-02-22
+ORD00641,CUST0859,Rohan,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,2,250,25,375,cash,Pending,75,5,Rohit,Unknown,2025-03-19
+ORD00642,CUST1063,Aditi,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,7,40,5,266,"debit card",Cancelled,25,2,Unknown,9876543210,2025-09-30
+ORD00643,CUST0756,Sneha,Hyderabad,Telangana,P003,"Britannia Bread",bakery,2,35,NULL,NULL,cash,Pending,45,4,Rahul,Unknown,2025-03-26
+ORD00644,CUST0072,Vishal,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,6,500,15,2550,"credit card",Cancelled,40,5,Vikas,Unknown,2025-08-10
+ORD00645,CUST0369,Vishal,Delhi,Delhi,P004,"Lays Magic Masala",snacks,5,50,30,175,upi,Unknown,18,NULL,Priya,Unknown,2025-11-17
+ORD00646,CUST0618,Karan,Bengaluru,Maharahstra,P003,"Britannia Bread",bakery,6,120,50,360,upi,Unknown,10,5,Amit,Unknown,2025-10-27
+ORD00647,CUST0414,Ananya,Nashik,Maharashtra,P001,"Amul Taaza Milk",dairy,4,500,25,1500,unknown,Delivered,75,3,Vikas,Unknown,2025-07-22
+ORD00648,CUST0873,Ananya,Delhi,Delhi,P010,"Surf Excel",household,5,20,20,80,"debit card",Cancelled,45,4,Rohit,Unknown,2025-10-09
+ORD00649,CUST0670,Vishal,Delhi,Delhi,P006,Pepsi,beverages,3,500,0,1500,upi,"Out for Delivery",75,NULL,Amit,Unknown,2025-03-28
+ORD00650,CUST1614,Vishal,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,5,150,0,750,cash,Delivered,40,5,Unknown,Unknown,2025-11-03
+ORD00651,CUST0049,Rahul,Pune,Maharashtra,P010,"Surf Excel",household,4,75,NULL,315,wallet,Delivered,55,NULL,Rohit,Unknown,2025-12-02
+ORD00653,CUST1192,Rohan,Bengaluru,Karnataka,P006,Pepsi,beverages,6,150,30,630,unknown,Unknown,40,3,Sneha,9876543210,2025-01-25
+ORD00654,CUST1318,Aarav,Mumbai,Maharashtra,P009,"Tata Salt",staples,7,250,5,1662.5,upi,"Out for Delivery",18,NULL,Rahul,Unknown,2025-04-02
+ORD00655,CUST0015,Rahul,Mumbai,Maharashtra,P005,"Coca Cola",beverages,4,250,25,750,wallet,Unknown,22,NULL,Unknown,Unknown,2025-05-06
+ORD00656,CUST1016,Neha,Delhi,Delhi,P009,"Tata Salt",staples,3,200,0,600,cash,Delivered,15,NULL,Sneha,Unknown,2025-08-13
+ORD00658,CUST0068,Karan,Nashik,Maharashtra,P014,"Red Bull",beverages,3,500,0,1500,"credit card","Out for Delivery",22,NULL,Amit,Unknown,2025-06-22
+ORD00659,CUST0967,Rohan,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,1,60,0,60,"credit card",Unknown,15,NULL,Vikas,Unknown,2025-04-30
+ORD00661,CUST1398,Unknown,Pune,Maharashtra,P009,"Tata Salt",staples,3,20,5,57,unknown,Delivered,40,NULL,Amit,Unknown,2025-10-10
+ORD00663,CUST0720,Rohan,Nagpur,Maharashtra,P009,"Tata Salt",staples,7,75,0,525,cash,Cancelled,75,NULL,Unknown,Unknown,2025-11-07
+ORD00664,CUST1042,Sneha,Hyderabad,Telangana,P002,"Amul Butter",dairy,3,50,10,135,upi,Unknown,90,3,Sneha,Unknown,2025-01-29
+ORD00665,CUST1340,Rahul,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,4,120,0,480,"credit card",Pending,18,5,Sneha,Unknown,2025-07-22
+ORD00666,CUST0027,Rohan,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,3,150,20,360,upi,Returned,15,5,Sneha,Unknown,2025-10-16
+ORD00667,CUST0814,Sneha,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,6,40,0,240,"credit card",Delivered,55,5,Sneha,Unknown,2025-08-08
+ORD00669,CUST1357,Ananya,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,60,25,315,"debit card",Cancelled,60,5,Sneha,Unknown,2025-02-01
+ORD00670,CUST0345,Sneha,Delhi,Delhi,P008,"Aashirvaad Atta",staples,4,75,NULL,315,upi,Cancelled,40,2,Sneha,Unknown,2025-03-19
+ORD00671,CUST0694,Ananya,Nagpur,Maharashtra,P011,"Colgate Toothpaste","personal care",1,25,0,25,upi,Cancelled,45,5,Priya,Unknown,2025-06-18
+ORD00672,CUST1659,Sneha,Hyderabad,Telangana,P005,"Coca Cola",beverages,7,40,0,280,upi,Unknown,55,NULL,Unknown,Unknown,2025-09-06
+ORD00674,CUST1489,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,90,0,180,"credit card",Unknown,25,4,Sneha,Unknown,2025-04-08
+ORD00675,CUST1202,Aditi,Bengaluru,Karnataka,P014,"Red Bull",beverages,5,35,25,131.25,wallet,Returned,60,4,Rohit,9876543210,2025-01-17
+ORD00676,CUST0793,Vishal,Hyderabad,Telangana,P002,"Amul Butter",dairy,6,150,0,900,upi,Delivered,90,2,Sneha,Unknown,2025-08-27
+ORD00677,CUST1168,Vishal,Pune,Maharashtra,P009,"Tata Salt",staples,3,500,30,1050,"debit card",Returned,22,NULL,Priya,9876543210,2025-10-26
+ORD00679,CUST1713,Priya,Delhi,Delhi,P009,"Tata Salt",staples,6,150,0,900,unknown,Delivered,18,NULL,Unknown,Unknown,2025-03-22
+ORD00680,CUST1033,Karan,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,3,50,NULL,157.5,"credit card",Pending,25,1,Sneha,Unknown,2025-10-25
+ORD00681,CUST1649,Unknown,Nagpur,Maharashtra,P010,"Surf Excel",household,7,75,25,393.75,unknown,Unknown,15,3,Priya,Unknown,2025-03-11
+ORD00682,CUST0933,Priya,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,5,90,10,405,wallet,Unknown,45,NULL,Rohit,Unknown,2025-07-22
+ORD00683,CUST1151,Rahul,Pune,Maharashtra,P002,"amul butter",dairy,6,120,25,540,cash,"Out for Delivery",10,3,Sneha,Unknown,2025-01-03
+ORD00684,CUST0135,Rohan,Nashik,Maharashtra,P002,"Amul Butter",dairy,5,120,15,510,upi,Returned,22,5,Rahul,Unknown,2025-10-30
+ORD00685,CUST0017,Rahul,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,6,90,0,540,upi,Delivered,55,2,Rohit,Unknown,2025-07-29
+ORD00686,CUST0493,Rahul,Pune,Maharashtra,P006,Pepsi,beverages,4,90,5,342,"credit card",Returned,90,NULL,Unknown,Unknown,2025-04-03
+ORD00687,CUST1385,Sneha,Pune,Maharashtra,P009,"Tata Salt",staples,3,90,50,135,unknown,Pending,45,5,Priya,Unknown,2025-12-04
+ORD00688,CUST1212,Priya,Mumbai,Maharashtra,P002,"Amul Butter",dairy,2,75,0,150,upi,Delivered,NULL,2,Priya,Unknown,2025-04-25
+ORD00689,CUST0097,Unknown,Hyderabad,Telangana,P003,"Britannia Bread",bakery,3,500,25,1125,"credit card",Delivered,25,NULL,Priya,Unknown,2025-04-10
+ORD00690,CUST1731,Karan,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",7,250,0,1750,unknown,Delivered,10,NULL,Sneha,Unknown,2025-05-02
+ORD00691,CUST0845,Aarav,Hyderabad,Telangana,P014,"Red Bull","personal care",6,150,0,900,"debit card",Cancelled,30,1,Unknown,Unknown,2025-10-03
+ORD00693,CUST0783,Karan,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,7,35,15,208.25,unknown,Pending,55,1,Priya,Unknown,2025-04-15
+ORD00694,CUST1170,Priya,Hyderabad,Telangana,P009,"Tata Salt",staples,7,75,NULL,551.25,upi,Delivered,15,4,Vikas,Unknown,2025-05-28
+ORD00696,CUST0512,Karan,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",1,120,0,120,cash,Delivered,25,1,Unknown,Unknown,2025-04-30
+ORD00697,CUST0034,Unknown,Mumbai,Maharashtra,P012,"Dove Soap","personal care",6,500,20,2400,upi,Cancelled,35,5,Sneha,Unknown,2025-12-17
+ORD00698,CUST1242,Sneha,Nagpur,Maharashtra,P004,"Lays Magic Masala",snacks,3,120,25,270,"debit card",Delivered,45,3,Amit,Unknown,2025-01-15
+ORD00700,CUST1394,Unknown,Nagpur,Maharashtra,P004,"Lays Magic Masala",snacks,3,50,0,150,upi,Cancelled,40,5,Sneha,Unknown,2025-12-02
+ORD00702,CUST0988,Rahul,Delhi,Delhi,P007,"Maggi Noodles","instant food",1,25,50,12.5,cash,Delivered,60,4,Vikas,Unknown,2025-05-08
+ORD00703,CUST0676,Karan,Pune,Maharashtra,P003,"Britannia Bread",bakery,2,90,20,144,unknown,Cancelled,NULL,NULL,Vikas,9876543210,2025-09-28
+ORD00704,CUST1654,Rohan,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,7,120,10,756,"credit card",Unknown,NULL,3,Amit,Unknown,2025-07-20
+ORD00705,CUST0620,Aarav,Bengaluru,Karnataka,P001,"amul taaza milk",dairy,4,60,10,216,"credit card",Delivered,75,4,Rohit,Unknown,2025-05-12
+ORD00707,CUST1079,Rohan,Nashik,Maharashtra,P006,Pepsi,beverages,5,75,NULL,393.75,upi,Delivered,NULL,3,Rohit,Unknown,2025-06-22
+ORD00709,CUST0627,Unknown,Pune,Maharashtra,P007,"Maggi Noodles","instant food",6,40,25,180,"credit card",Pending,NULL,4,Unknown,Unknown,2025-10-02
+ORD00710,CUST0765,Aditi,Bengaluru,Karnataka,P014,"Red Bull",beverages,2,25,5,47.5,cash,"Out for Delivery",35,NULL,Priya,Unknown,2025-07-26
+ORD00711,CUST0213,Priya,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,120,50,420,wallet,Delivered,15,4,Unknown,Unknown,2025-10-26
+ORD00712,CUST1173,Aarav,Pune,Maharashtra,P008,"Aashirvaad Atta",snacks,2,200,30,280,upi,Cancelled,60,5,Rahul,9876543210,2025-01-08
+ORD00713,CUST1058,Vishal,Pune,Maharashtra,P014,"Red Bull",beverages,6,60,5,342,upi,Delivered,75,1,Unknown,Unknown,2025-02-28
+ORD00714,CUST1530,Aarav,Bengaluru,Karnataka,P012,"Dove Soap","personal care",3,40,5,114,cash,Delivered,25,5,Priya,9876543210,2025-11-28
+ORD00715,CUST0444,Aarav,Delhi,Delhi,P014,"Red Bull",beverages,2,75,NULL,157.5,cash,Delivered,NULL,3,Amit,Unknown,2025-04-13
+ORD00716,CUST0806,Karan,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,6,35,0,210,cash,Delivered,15,NULL,Unknown,Unknown,2025-10-20
+ORD00717,CUST1497,Neha,Hyderabad,Telangana,P005,"Coca Cola",beverages,4,150,20,480,"debit card",Returned,90,4,Amit,Unknown,2025-06-08
+ORD00718,CUST1167,Neha,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",1,40,NULL,42,wallet,Delivered,10,1,Amit,Unknown,2025-09-18
+ORD00720,CUST0217,Neha,Delhi,Delhi,P004,"Lays Magic Masala",snacks,6,50,NULL,NULL,wallet,Returned,40,3,Priya,Unknown,2025-12-01
+ORD00721,CUST0434,Priya,Nagpur,Maharashtra,P009,"Tata Salt",staples,5,40,30,140,"credit card",Unknown,90,2,Unknown,Unknown,2025-02-01
+ORD00722,CUST0250,Neha,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",2,60,NULL,NULL,"credit card",Delivered,22,NULL,Unknown,Unknown,2025-04-27
+ORD00723,CUST0015,Aditi,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,3,25,10,67.5,cash,Unknown,90,5,Sneha,Unknown,2025-11-27
+ORD00725,CUST1026,Aditi,Delhi,Delhi,P004,"Lays Magic Masala",snacks,6,250,5,1425,upi,Delivered,22,NULL,Amit,Unknown,2025-09-04
+ORD00726,CUST0744,Vishal,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,150,10,540,"debit card",Pending,75,4,Amit,Unknown,2025-01-15
+ORD00727,CUST0327,Neha,Delhi,Delhi,P002,"Amul Butter",dairy,1,50,5,47.5,wallet,Cancelled,45,4,Amit,Unknown,2025-01-12
+ORD00728,CUST0852,Karan,Nashik,Maharashtra,P009,"Tata Salt",staples,3,500,NULL,1575,"credit card",Delivered,10,3,Unknown,Unknown,2025-04-21
+ORD00729,CUST1276,Priya,Delhi,Delhi,P006,Pepsi,beverages,6,35,0,210,unknown,Returned,15,3,Unknown,Unknown,2025-10-18
+ORD00730,CUST1389,Aditi,Delhi,Delhi,P004,"Lays Magic Masala",snacks,4,200,0,800,unknown,Cancelled,45,3,Priya,Unknown,2025-09-28
+ORD00732,CUST0664,Unknown,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",2,20,10,36,wallet,"Out for Delivery",40,4,Sneha,Unknown,2025-02-15
+ORD00733,CUST0849,Rahul,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,3,90,NULL,283.5,upi,Cancelled,60,2,Vikas,9876543210,2025-04-28
+ORD00734,CUST0223,Rahul,Nagpur,Maharashtra,P015,"Mother Dairy Curd",dairy,4,250,15,850,upi,Delivered,22,3,Vikas,Unknown,2025-06-04
+ORD00736,CUST0393,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,4,90,NULL,378,upi,Delivered,60,NULL,Unknown,Unknown,2025-08-24
+ORD00737,CUST1279,Aarav,Pune,Karnataka,P012,"Dove Soap","personal care",4,25,30,70,wallet,Pending,60,2,Amit,9876543210,2025-12-16
+ORD00738,CUST1629,Sneha,Nashik,Maharashtra,P010,"Surf Excel",household,4,25,15,85,cash,Cancelled,60,5,Amit,Unknown,2025-07-23
+ORD00739,CUST0260,Neha,Mumbai,Maharashtra,P014,"Red Bull",beverages,7,200,0,1400,"credit card",Delivered,10,3,Sneha,Unknown,2025-04-26
+ORD00740,CUST0800,Rahul,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,2,60,20,96,upi,Delivered,18,NULL,Sneha,Unknown,2025-12-19
+ORD00741,CUST0508,Neha,Pune,Maharashtra,P010,"Surf Excel",household,6,25,5,142.5,wallet,Delivered,55,5,Sneha,Unknown,2025-11-21
+ORD00742,CUST0620,Karan,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,4,250,50,NULL,upi,Cancelled,10,3,Rahul,Unknown,2025-06-01
+ORD00743,CUST1374,Priya,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,6,500,5,2850,"debit card",Pending,35,NULL,Amit,Unknown,2025-06-23
+ORD00744,CUST1785,Aditi,Hyderabad,Telangana,P006,Pepsi,beverages,3,40,25,90,unknown,Delivered,30,4,Rohit,Unknown,2025-04-10
+ORD00747,CUST1752,Aditi,Bengaluru,Karnataka,P010,"Surf Excel",household,4,35,0,140,upi,Cancelled,10,NULL,Amit,9876543210,2025-04-08
+ORD00748,CUST1284,Ananya,Hyderabad,Telangana,P009,"Tata Salt",staples,7,20,0,140,"credit card",Unknown,40,5,Rahul,Unknown,2025-05-15
+ORD00749,CUST1677,Priya,Nagpur,Maharashtra,P007,"Maggi Noodles","instant food",2,200,30,280,"credit card",Cancelled,18,3,Unknown,Unknown,2025-01-04
+ORD00752,CUST0699,Unknown,Delhi,Delhi,P002,"Amul Butter",dairy,5,200,5,950,unknown,Cancelled,90,4,Vikas,Unknown,2025-04-14
+ORD00754,CUST0669,Priya,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,4,200,30,560,"credit card",Cancelled,45,5,Priya,Unknown,2025-09-10
+ORD00755,CUST0960,Karan,Nagpur,Maharashtra,P008,"Aashirvaad Atta",staples,6,90,25,405,upi,Returned,18,4,Rahul,Unknown,2025-04-28
+ORD00756,CUST1386,Aditi,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",1,60,NULL,63,"credit card",Returned,60,4,Unknown,Unknown,2025-03-10
+ORD00757,CUST1663,Unknown,Mumbai,Maharashtra,P014,"Red Bull",beverages,4,25,NULL,NULL,"credit card",Delivered,75,1,Rohit,Unknown,2025-07-22
+ORD00759,CUST0942,Unknown,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",6,60,NULL,378,upi,Delivered,10,3,Unknown,Unknown,2025-12-19
+ORD00760,CUST0993,Neha,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",3,120,5,342,upi,Pending,30,3,Rohit,Unknown,2025-10-28
+ORD00761,CUST0258,Sneha,Delhi,Delhi,P005,"Coca Cola",beverages,5,150,15,637.5,upi,Cancelled,35,NULL,Rahul,Unknown,2025-04-02
+ORD00762,CUST1060,Aarav,Mumbai,Maharashtra,P012,"Dove Soap","personal care",2,20,30,28,cash,"Out for Delivery",18,1,Unknown,Unknown,2025-12-18
+ORD00763,CUST0263,Priya,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,3,150,NULL,NULL,unknown,Cancelled,35,3,Priya,Unknown,2025-06-27
+ORD00764,CUST0056,Sneha,Nagpur,Maharashtra,P010,"Surf Excel",household,2,90,0,180,unknown,Delivered,15,1,Amit,Unknown,2025-01-22
+ORD00765,CUST1473,Neha,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,1,60,0,60,upi,"Out for Delivery",45,3,Amit,Unknown,2025-12-11
+ORD00766,CUST1394,Karan,Delhi,Delhi,P014,"Red Bull",beverages,5,40,20,160,unknown,Delivered,40,4,Amit,Unknown,2025-05-11
+ORD00767,CUST0567,Neha,Delhi,Delhi,P005,"Coca Cola",beverages,2,50,0,100,wallet,"Out for Delivery",45,4,Rahul,Unknown,2025-03-26
+ORD00768,CUST1613,Ananya,Pune,Maharashtra,P005,"Coca Cola",beverages,5,150,NULL,NULL,upi,Delivered,10,3,Sneha,Unknown,2025-11-24
+ORD00770,CUST0017,Aarav,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,1,120,0,120,upi,Returned,75,NULL,Sneha,Unknown,2025-11-12
+ORD00772,CUST1718,Aditi,Pune,Maharashtra,P009,"Tata Salt",staples,4,20,15,68,upi,Delivered,10,NULL,Unknown,9876543210,2025-08-03
+ORD00773,CUST1562,Priya,Delhi,Delhi,P006,Pepsi,beverages,6,20,25,90,"credit card",Pending,NULL,2,Sneha,Unknown,2025-04-05
+ORD00774,CUST1226,Unknown,Hyderabad,Telangana,P003,"Britannia Bread",bakery,1,200,NULL,210,upi,Delivered,55,3,Priya,Unknown,2025-06-07
+ORD00775,CUST0453,Neha,Pune,Maharashtra,P011,"Colgate Toothpaste","personal care",6,250,0,1500,"credit card",Cancelled,40,NULL,Unknown,Unknown,2025-10-31
+ORD00776,CUST1603,Neha,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,2,120,30,168,upi,Cancelled,22,3,Vikas,Unknown,2025-03-15
+ORD00778,CUST0955,Ananya,Mumbai,Maharashtra,P002,"Amul Butter",dairy,7,200,0,1400,"debit card",Unknown,15,4,Sneha,Unknown,2025-06-18
+ORD00779,CUST1151,Ananya,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,1,120,50,60,unknown,Cancelled,25,3,Priya,Unknown,2025-09-09
+ORD00780,CUST0789,Rahul,Mumbai,Maharashtra,P009,"Tata Salt",staples,4,60,0,240,unknown,Delivered,22,4,Rahul,9876543210,2025-02-08
+ORD00781,CUST1449,Rahul,Delhi,Delhi,P008,"Aashirvaad Atta",staples,1,50,0,50,upi,Cancelled,15,2,Priya,Unknown,2025-07-08
+ORD00783,CUST1020,Aditi,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,7,25,15,148.75,unknown,Cancelled,40,NULL,Unknown,Unknown,2025-05-06
+ORD00784,CUST1439,Aarav,Delhi,Unknown,P012,"Dove Soap","personal care",5,75,30,262.5,upi,Delivered,60,2,Vikas,Unknown,2025-08-08
+ORD00787,CUST1267,Sneha,Nagpur,Maharashtra,P006,Pepsi,beverages,7,40,0,280,upi,"Out for Delivery",60,NULL,Unknown,Unknown,2025-07-09
+ORD00788,CUST0939,Aarav,Nashik,Maharashtra,P008,"Aashirvaad Atta",staples,3,50,50,75,"credit card",Delivered,15,5,Priya,Unknown,2025-10-28
+ORD00789,CUST1005,Vishal,Hyderabad,Telangana,P005,"Coca Cola",beverages,7,75,50,262.5,cash,Cancelled,25,4,Vikas,Unknown,2025-10-14
+ORD00790,CUST1157,Priya,Pune,Maharashtra,P010,"Surf Excel",household,5,500,15,2125,unknown,"Out for Delivery",45,NULL,Amit,Unknown,2025-10-15
+ORD00791,CUST1001,Unknown,Pune,Maharashtra,P006,Pepsi,beverages,5,75,15,318.75,upi,Returned,25,5,Unknown,9876543210,2025-01-27
+ORD00792,CUST0288,Sneha,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,3,90,5,256.5,"debit card",Returned,30,4,Priya,Unknown,2025-02-10
+ORD00793,CUST1195,Vishal,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,7,150,0,1050,upi,Delivered,40,4,Rohit,Unknown,2025-06-28
+ORD00794,CUST1796,Vishal,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,4,60,10,216,"credit card",Delivered,55,NULL,Sneha,9876543210,2025-11-03
+ORD00795,CUST1432,Unknown,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,4,150,10,540,cash,Cancelled,30,5,Priya,Unknown,2025-09-22
+ORD00796,CUST1758,Vishal,Mumbai,Maharashtra,P005,"Coca Cola",beverages,1,120,NULL,126,unknown,Unknown,40,5,Unknown,Unknown,2025-10-08
+ORD00797,CUST1185,Rohan,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,1,500,NULL,525,cash,"Out for Delivery",90,3,Vikas,Unknown,2025-05-26
+ORD00800,CUST0075,Karan,Delhi,Delhi,P014,"Red Bull",beverages,3,25,5,71.25,"credit card",Delivered,55,4,Priya,Unknown,2025-03-15
+ORD00801,CUST0369,Karan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,1,50,10,45,upi,Returned,15,NULL,Priya,9876543210,2025-12-12
+ORD00803,CUST1224,Priya,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,3,75,15,191.25,upi,Cancelled,15,3,Vikas,9876543210,2025-12-01
+ORD00804,CUST1248,Aditi,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,1,75,0,75,upi,"Out for Delivery",30,5,Amit,Unknown,2025-12-10
+ORD00806,CUST1542,Karan,Hyderabad,Telangana,P003,"Britannia Bread",bakery,6,20,NULL,NULL,"debit card","Out for Delivery",10,3,Unknown,Unknown,2025-09-20
+ORD00807,CUST0029,Aarav,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,5,25,25,93.75,"credit card","Out for Delivery",25,4,Unknown,Unknown,2025-02-23
+ORD00808,CUST0657,Priya,Hyderabad,Telangana,P012,"Dove Soap","personal care",6,150,20,720,upi,Delivered,30,3,Rohit,Unknown,2025-10-27
+ORD00809,CUST1715,Unknown,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,1,40,5,38,"credit card",Delivered,75,2,Priya,Unknown,2025-03-15
+ORD00810,CUST1414,Unknown,Pune,Maharashtra,P014,"Red Bull",beverages,3,20,25,45,cash,Delivered,40,NULL,Unknown,Unknown,2025-09-28
+ORD00811,CUST0027,Unknown,Mumbai,Maharashtra,P012,"Dove Soap",snacks,4,200,15,680,wallet,Delivered,40,4,Rahul,Unknown,2025-04-07
+ORD00812,CUST0202,Rahul,Nagpur,Maharashtra,P011,"Colgate Toothpaste","personal care",1,150,0,150,cash,Cancelled,15,4,Vikas,9876543210,2025-03-29
+ORD00814,CUST1683,Priya,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,5,60,15,255,"debit card",Delivered,40,3,Rahul,Unknown,2025-05-14
+ORD00815,CUST1143,Unknown,Nagpur,Maharashtra,P011,"colgate toothpaste","personal care",5,60,0,300,wallet,Delivered,45,NULL,Vikas,9876543210,2025-06-27
+ORD00816,CUST1005,Rohan,Hyderabad,Telangana,P006,Pepsi,beverages,6,50,0,300,wallet,Cancelled,55,1,Unknown,Unknown,2025-05-03
+ORD00817,CUST1317,Sneha,Delhi,Delhi,P007,"Maggi Noodles",staples,6,35,25,157.5,wallet,Cancelled,25,NULL,Priya,Unknown,2025-10-29
+ORD00818,CUST0799,Rohan,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",6,120,20,576,upi,Delivered,18,NULL,Sneha,Unknown,2025-01-20
+ORD00819,CUST0019,Karan,Bengaluru,Maharahstra,P010,"Surf Excel",household,1,75,0,75,"debit card",Unknown,18,5,Unknown,Unknown,2025-09-17
+ORD00820,CUST0579,Aditi,Pune,Maharashtra,P009,"Tata Salt",staples,1,35,25,26.25,unknown,"Out for Delivery",15,NULL,Priya,Unknown,2025-09-26
+ORD00821,CUST1088,Priya,Delhi,Delhi,P010,"Surf Excel",household,5,20,20,80,"credit card",Cancelled,22,5,Rahul,Unknown,2025-12-09
+ORD00822,CUST0392,Unknown,Bengaluru,Karnataka,P009,"Tata Salt",staples,2,60,NULL,126,"credit card",Cancelled,30,5,Vikas,Unknown,2025-03-17
+ORD00824,CUST0606,Unknown,Nagpur,Maharashtra,P003,"Britannia Bread",bakery,2,250,NULL,NULL,upi,Returned,35,1,Amit,Unknown,2025-05-15
+ORD00825,CUST0168,Aarav,Hyderabad,Telangana,P002,"Amul Butter",dairy,4,60,15,204,upi,Delivered,18,5,Rohit,Unknown,2025-12-31
+ORD00827,CUST0021,Rohan,Mumbai,Maharashtra,P002,"Amul Butter",dairy,2,50,0,100,"credit card",Cancelled,35,3,Rohit,Unknown,2025-08-06
+ORD00828,CUST0250,Priya,Delhi,Delhi,P008,"Aashirvaad Atta",staples,7,35,10,220.5,wallet,"Out for Delivery",60,2,Unknown,Unknown,2025-03-28
+ORD00829,CUST1587,Vishal,Delhi,Delhi,P010,"Surf Excel",household,2,25,0,50,"credit card",Cancelled,90,3,Priya,9876543210,2025-09-02
+ORD00830,CUST1101,Unknown,Delhi,Delhi,P009,"Tata Salt",staples,1,90,NULL,94.5,wallet,"Out for Delivery",75,3,Unknown,Unknown,2025-07-25
+ORD00831,CUST0125,Priya,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,2,20,5,38,"credit card",Pending,35,1,Rohit,Unknown,2025-10-08
+ORD00832,CUST0602,Karan,Delhi,Delhi,P010,"Surf Excel",household,6,25,0,150,upi,Unknown,75,1,Sneha,Unknown,2025-02-10
+ORD00833,CUST1249,Priya,Bengaluru,Karnataka,P002,"Amul Butter",dairy,7,40,20,224,upi,Delivered,40,2,Rahul,9876543210,2025-07-14
+ORD00834,CUST1326,Aditi,Delhi,Delhi,P005,"Coca Cola",beverages,3,75,20,180,"credit card","Out for Delivery",40,4,Sneha,Unknown,2025-01-17
+ORD00835,CUST1527,Unknown,Mumbai,Maharashtra,P003,"britannia bread",bakery,3,90,0,270,upi,Returned,90,NULL,Unknown,Unknown,2025-09-22
+ORD00838,CUST1195,Unknown,Delhi,Delhi,P005,"Coca Cola",beverages,4,20,NULL,84,wallet,Cancelled,45,2,Amit,Unknown,2025-08-01
+ORD00839,CUST1091,Karan,Mumbai,Maharashtra,P006,Pepsi,beverages,7,500,25,2625,"credit card",Cancelled,90,NULL,Amit,Unknown,2025-04-09
+ORD00840,CUST0230,Sneha,Pune,Maharashtra,P010,"Surf Excel",household,3,500,5,1425,cash,Delivered,90,2,Unknown,Unknown,2025-09-22
+ORD00841,CUST0766,Vishal,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",2,200,NULL,420,"credit card",Cancelled,90,3,Amit,Unknown,2025-05-15
+ORD00844,CUST1529,Ananya,Pune,Maharashtra,P012,"Dove Soap","personal care",3,20,0,60,cash,Cancelled,30,5,Amit,Unknown,2025-12-03
+ORD00846,CUST0091,Karan,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,2,150,15,255,cash,Pending,15,5,Sneha,Unknown,2025-07-09
+ORD00847,CUST0491,Vishal,Mumbai,Maharashtra,P006,Pepsi,beverages,7,200,30,980,upi,Delivered,NULL,3,Amit,Unknown,2025-07-26
+ORD00848,CUST0260,Rahul,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,250,50,875,"debit card",Delivered,15,4,Amit,Unknown,2025-04-02
+ORD00850,CUST1152,Priya,Nashik,Maharashtra,P008,"Aashirvaad Atta",staples,3,40,0,120,upi,Cancelled,75,4,Vikas,Unknown,2025-07-03
+ORD00852,CUST0332,Karan,Mumbai,Maharashtra,P012,"Dove Soap","personal care",7,150,15,892.5,wallet,"Out for Delivery",30,5,Amit,Unknown,2025-01-25
+ORD00853,CUST1395,Unknown,Pune,Maharashtra,P005,"Coca Cola",beverages,7,20,5,133,"credit card",Cancelled,10,2,Unknown,Unknown,2025-10-13
+ORD00854,CUST1692,Unknown,Delhi,Delhi,P005,"Coca Cola",beverages,6,60,15,306,unknown,Delivered,40,4,Unknown,Unknown,2025-07-21
+ORD00855,CUST0587,Aditi,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,3,25,0,75,wallet,Unknown,15,2,Unknown,9876543210,2025-07-07
+ORD00857,CUST1619,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,3,25,5,71.25,upi,Cancelled,75,5,Unknown,Unknown,2025-05-23
+ORD00858,CUST0316,Rahul,Hyderabad,Telangana,P010,"Surf Excel",household,4,60,NULL,252,"credit card",Cancelled,75,3,Unknown,Unknown,2025-08-21
+ORD00859,CUST1220,Unknown,Nashik,Maharashtra,P010,"Surf Excel",household,5,50,NULL,NULL,upi,Delivered,75,NULL,Rahul,Unknown,2025-01-16
+ORD00860,CUST0028,Rohan,Hyderabad,Telangana,P013,"Haldiram's Bhujia",snacks,1,90,10,81,cash,Delivered,NULL,NULL,Amit,Unknown,2025-06-14
+ORD00862,CUST0269,Sneha,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,90,NULL,661.5,cash,Cancelled,15,NULL,Priya,Unknown,2025-01-23
+ORD00865,CUST0374,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,2,200,0,400,"debit card",Delivered,55,4,Amit,Unknown,2025-02-16
+ORD00867,CUST0296,Aarav,Nashik,Maharashtra,P001,"Amul Taaza Milk",dairy,4,25,NULL,105,upi,Delivered,40,1,Priya,Unknown,2025-05-15
+ORD00868,CUST0408,Priya,Pune,Maharashtra,P007,"Maggi Noodles","instant food",1,20,25,15,wallet,Delivered,NULL,NULL,Unknown,Unknown,2025-02-19
+ORD00869,CUST0412,Sneha,Nagpur,Maharashtra,P014,"Red Bull",beverages,2,25,0,NULL,unknown,"Out for Delivery",NULL,NULL,Amit,Unknown,2025-09-09
+ORD00870,CUST1712,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,6,150,0,900,cash,Returned,45,4,Amit,Unknown,2025-03-24
+ORD00871,CUST0366,Unknown,Nashik,Maharashtra,P012,"Dove Soap","personal care",1,20,0,20,upi,Delivered,40,3,Amit,9876543210,2025-12-22
+ORD00872,CUST1747,Aarav,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,3,120,25,270,"debit card",Delivered,45,NULL,Amit,9876543210,2025-07-16
+ORD00873,CUST0987,Aarav,Hyderabad,Telangana,P008,"Aashirvaad Atta",staples,3,75,30,157.5,"credit card","Out for Delivery",90,NULL,Unknown,Unknown,2025-07-16
+ORD00874,CUST1333,Rohan,Delhi,Delhi,P006,Pepsi,beverages,3,250,5,712.5,wallet,Cancelled,30,NULL,Rohit,Unknown,2025-01-11
+ORD00875,CUST1245,Sneha,Mumbai,Maharashtra,P002,"Amul Butter",dairy,1,35,25,26.25,"debit card",Returned,90,NULL,Priya,Unknown,2025-12-13
+ORD00876,CUST1280,Sneha,Bengaluru,Karnataka,P014,"Red Bull",beverages,3,60,25,135,cash,"Out for Delivery",10,4,Priya,Unknown,2025-09-15
+ORD00878,CUST1113,Aarav,Mumbai,Maharashtra,P005,"Coca Cola",beverages,3,25,NULL,NULL,unknown,Delivered,40,4,Priya,Unknown,2025-03-23
+ORD00881,CUST1567,Karan,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,6,20,5,114,wallet,Returned,22,3,Sneha,Unknown,2025-05-15
+ORD00882,CUST0762,Karan,Mumbai,Maharashtra,P010,"Surf Excel",household,1,60,25,45,wallet,Pending,10,NULL,Rohit,Unknown,2025-02-19
+ORD00884,CUST0170,Rohan,Pune,Maharashtra,P006,Pepsi,beverages,1,250,15,212.5,unknown,Unknown,90,NULL,Rohit,Unknown,2025-02-26
+ORD00885,CUST0516,Ananya,Mumbai,Maharashtra,P005,"Coca Cola",beverages,6,90,50,270,upi,Returned,25,5,Amit,Unknown,2025-01-20
+ORD00886,CUST1402,Sneha,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",5,200,0,1000,"debit card",Delivered,25,3,Rahul,Unknown,2025-05-05
+ORD00887,CUST0500,Aarav,Hyderabad,Telangana,P014,"Red Bull",beverages,1,90,30,63,upi,Cancelled,90,5,Sneha,Unknown,2025-07-30
+ORD00888,CUST1489,Aditi,Mumbai,Maharashtra,P012,"Dove Soap","personal care",5,90,0,450,upi,Delivered,18,NULL,Rohit,Unknown,2025-02-15
+ORD00889,CUST0811,Priya,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,6,35,20,168,"credit card",Cancelled,NULL,NULL,Unknown,Unknown,2025-10-07
+ORD00890,CUST0089,Rohan,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,6,20,0,120,cash,Delivered,30,5,Rohit,Unknown,2025-08-25
+ORD00891,CUST0425,Karan,Bengaluru,Karnataka,P005,"Coca Cola",beverages,7,150,30,735,wallet,Delivered,45,NULL,Unknown,Unknown,2025-07-27
+ORD00892,CUST1258,Priya,Mumbai,Maharashtra,P005,"Coca Cola",beverages,2,35,0,70,"credit card","Out for Delivery",25,NULL,Priya,Unknown,2025-04-23
+ORD00893,CUST1498,Vishal,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",1,75,10,67.5,"credit card",Cancelled,35,4,Vikas,Unknown,2025-03-18
+ORD00894,CUST0608,Unknown,Mumbai,Maharashtra,P014,"Red Bull",beverages,3,200,5,570,"credit card",Pending,NULL,3,Unknown,Unknown,2025-06-26
+ORD00895,CUST1164,Rahul,Mumbai,Maharashtra,P014,"Red Bull",beverages,7,25,NULL,NULL,cash,Unknown,30,NULL,Priya,Unknown,2025-06-28
+ORD00896,CUST1489,Ananya,Hyderabad,Telangana,P003,"Britannia Bread",bakery,6,200,25,900,unknown,Cancelled,30,5,Amit,Unknown,2025-05-03
+ORD00897,CUST0649,Rahul,Nagpur,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,75,10,472.5,"credit card",Unknown,35,3,Sneha,Unknown,2025-09-23
+ORD00898,CUST0639,Aarav,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,4,40,20,128,upi,Pending,60,4,Priya,Unknown,2025-07-23
+ORD00899,CUST0731,Aarav,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,75,0,300,cash,Cancelled,40,NULL,Priya,Unknown,2025-05-25
+ORD00901,CUST1333,Aditi,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,2,500,30,700,"debit card",Pending,45,NULL,Priya,Unknown,2025-02-26
+ORD00902,CUST1555,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,5,40,15,170,upi,Cancelled,90,1,Sneha,Unknown,2025-12-12
+ORD00903,CUST0633,Vishal,Pune,Maharashtra,P006,Pepsi,beverages,1,40,20,32,unknown,Cancelled,18,NULL,Amit,9876543210,2025-01-06
+ORD00904,CUST1263,Karan,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",7,60,NULL,NULL,upi,Unknown,75,NULL,Priya,Unknown,2025-05-24
+ORD00905,CUST1152,Aditi,Pune,Maharashtra,P003,"Britannia Bread",bakery,7,35,0,245,upi,Cancelled,25,3,Vikas,Unknown,2025-11-06
+ORD00906,CUST0049,Neha,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,2,90,50,90,cash,Unknown,18,3,Vikas,Unknown,2025-06-17
+ORD00907,CUST1432,Vishal,Delhi,Delhi,P004,"Lays Magic Masala",snacks,5,250,0,1250,wallet,Pending,25,NULL,Sneha,Unknown,2025-02-21
+ORD00908,CUST0063,Karan,Pune,Maharashtra,P007,"Maggi Noodles","instant food",5,50,5,237.5,unknown,Cancelled,35,NULL,Unknown,9876543210,2025-02-10
+ORD00909,CUST1756,Unknown,Bengaluru,Karnataka,P013,"Haldiram's Bhujia",snacks,2,60,25,90,wallet,Cancelled,NULL,3,Amit,Unknown,2025-06-15
+ORD00910,CUST0484,Sneha,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,2,90,30,126,cash,Delivered,60,5,Vikas,Unknown,2025-06-19
+ORD00911,CUST1390,Rahul,Delhi,Delhi,P002,"Amul Butter",dairy,1,75,0,75,upi,Returned,60,5,Amit,Unknown,2025-11-15
+ORD00912,CUST1724,Unknown,Mumbai,Maharashtra,P002,"Amul Butter",dairy,7,50,0,350,wallet,Cancelled,35,4,Rahul,Unknown,2025-06-11
+ORD00914,CUST1781,Aditi,Delhi,Delhi,P008,"Aashirvaad Atta",staples,3,20,NULL,NULL,upi,Delivered,22,2,Unknown,Unknown,2025-11-14
+ORD00915,CUST0628,Priya,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",4,60,50,120,cash,Pending,60,5,Rahul,Unknown,2025-04-28
+ORD00916,CUST0703,Priya,Delhi,Delhi,P002,"Amul Butter",dairy,1,500,15,425,unknown,"Out for Delivery",15,5,Unknown,Unknown,2025-11-27
+ORD00918,CUST0931,Aditi,Bengaluru,Karnataka,P014,"Red Bull",beverages,4,40,20,128,"credit card",Pending,90,1,Amit,Unknown,2025-12-26
+ORD00919,CUST0484,Aditi,Bengaluru,Karnataka,P009,"Tata Salt",staples,5,60,0,300,unknown,Cancelled,60,NULL,Rahul,Unknown,2025-08-12
+ORD00920,CUST1182,Aditi,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,1,20,NULL,NULL,cash,Cancelled,35,4,Vikas,Unknown,2025-08-13
+ORD00922,CUST1718,Sneha,Hyderabad,Telangana,P002,"Amul Butter",dairy,6,200,0,1200,"credit card",Cancelled,30,3,Unknown,Unknown,2025-09-26
+ORD00923,CUST1737,Karan,Bengaluru,Karnataka,P014,"Red Bull",beverages,3,40,0,120,unknown,Delivered,22,NULL,Unknown,Unknown,2025-10-23
+ORD00924,CUST0083,Unknown,Hyderabad,Telangana,P012,"Dove Soap","personal care",4,500,0,2000,unknown,Delivered,22,4,Priya,9876543210,2025-10-01
+ORD00925,CUST0142,Priya,Delhi,Delhi,P004,"Lays Magic Masala",snacks,3,90,0,270,"credit card",Pending,40,5,Amit,Unknown,2025-06-20
+ORD00926,CUST1352,Unknown,Mumbai,Maharashtra,P006,Pepsi,beverages,6,50,0,300,"debit card",Delivered,18,NULL,Unknown,Unknown,2025-03-15
+ORD00928,CUST0285,Unknown,Mumbai,Maharashtra,P014,"Red Bull",beverages,5,90,25,337.5,unknown,Returned,55,5,Unknown,Unknown,2025-07-04
+ORD00929,CUST1463,Aarav,Pune,Maharashtra,P003,"Britannia Bread",bakery,1,90,0,90,wallet,"Out for Delivery",45,NULL,Priya,Unknown,2025-03-05
+ORD00930,CUST0360,Unknown,Nagpur,Maharashtra,P014,"Red Bull",beverages,7,20,25,105,unknown,Unknown,90,2,Vikas,Unknown,2025-06-04
+ORD00931,CUST0077,Unknown,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,3,25,0,75,cash,Pending,45,5,Rohit,Unknown,2025-06-14
+ORD00932,CUST1557,Rohan,Nagpur,Maharashtra,P010,"Surf Excel",household,7,120,15,714,"debit card",Cancelled,55,1,Rohit,Unknown,2025-05-15
+ORD00934,CUST0312,Unknown,Pune,Maharashtra,P005,"Coca Cola",beverages,1,20,0,20,upi,Delivered,NULL,NULL,Unknown,Unknown,2025-05-30
+ORD00935,CUST0880,Rohan,Nashik,Maharashtra,P006,Pepsi,beverages,5,500,15,2125,cash,Delivered,25,2,Vikas,9876543210,2025-05-13
+ORD00936,CUST0809,Sneha,Mumbai,Maharashtra,P006,Pepsi,beverages,5,50,NULL,262.5,unknown,Unknown,35,3,Sneha,Unknown,2025-07-28
+ORD00938,CUST0777,Neha,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,4,150,0,NULL,"debit card",Delivered,22,5,Amit,9876543210,2025-12-18
+ORD00939,CUST0708,Ananya,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,2,75,25,112.5,"debit card","Out for Delivery",10,5,Unknown,Unknown,2025-09-02
+ORD00941,CUST1619,Priya,Pune,Maharashtra,P015,"Mother Dairy Curd",dairy,1,60,10,54,"credit card",Cancelled,22,NULL,Unknown,Unknown,2025-01-04
+ORD00943,CUST0111,Ananya,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,4,50,20,160,unknown,Cancelled,22,NULL,Unknown,9876543210,2025-03-05
+ORD00944,CUST0225,Rohan,Hyderabad,Telangana,P011,"Colgate Toothpaste","personal care",1,20,20,16,cash,Cancelled,15,5,Rohit,Unknown,2025-05-11
+ORD00945,CUST1102,Aarav,Mumbai,Maharashtra,P009,"Tata Salt",staples,1,50,0,50,unknown,Delivered,40,4,Unknown,9876543210,2025-12-13
+ORD00948,CUST0755,Sneha,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,2,40,NULL,NULL,upi,Returned,30,1,Amit,Unknown,2025-11-03
+ORD00950,CUST0510,Unknown,Delhi,Delhi,P003,"Britannia Bread",bakery,2,90,0,180,cash,Pending,90,5,Unknown,Unknown,2025-06-25
+ORD00951,CUST1255,Rahul,Mumbai,Maharashtra,P010,"Surf Excel",household,3,500,0,1500,upi,"Out for Delivery",30,5,Vikas,Unknown,2025-02-04
+ORD00952,CUST0605,Vishal,Mumbai,Maharashtra,P010,"Surf Excel",household,6,200,10,1080,"credit card",Delivered,18,NULL,Unknown,Unknown,2025-09-22
+ORD00955,CUST0595,Vishal,Hyderabad,Telangana,P015,"mother dairy curd",dairy,4,40,30,112,wallet,Delivered,25,NULL,Unknown,Unknown,2025-06-15
+ORD00957,CUST1092,Karan,Nagpur,Maharashtra,P009,"Tata Salt",staples,1,75,15,63.75,cash,Returned,60,4,Amit,9876543210,2025-06-08
+ORD00958,CUST0266,Priya,Delhi,Delhi,P009,"Tata Salt",staples,7,150,30,735,upi,Returned,18,4,Sneha,Unknown,2025-02-13
+ORD00959,CUST0483,Unknown,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,5,50,5,237.5,cash,Delivered,45,4,Rohit,Unknown,2025-08-21
+ORD00960,CUST0589,Unknown,Pune,Maharashtra,P002,"Amul Butter",dairy,3,200,0,600,wallet,"Out for Delivery",25,4,Priya,Unknown,2025-06-30
+ORD00961,CUST0275,Sneha,Nagpur,Maharashtra,P015,"Mother Dairy Curd",dairy,3,60,0,180,unknown,Delivered,35,4,Unknown,9876543210,2025-01-20
+ORD00962,CUST1451,Priya,Delhi,Delhi,P005,"Coca Cola",beverages,6,75,50,225,cash,Cancelled,18,1,Vikas,Unknown,2025-07-05
+ORD00963,CUST1499,Unknown,Hyderabad,Telangana,P005,"Coca Cola",beverages,1,40,15,34,unknown,Delivered,90,2,Sneha,9876543210,2025-12-22
+ORD00964,CUST0601,Aditi,Delhi,Delhi,P004,"Lays Magic Masala",dairy,2,20,10,36,upi,Unknown,45,5,Rahul,Unknown,2025-03-16
+ORD00965,CUST1367,Vishal,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,1,90,0,90,"credit card",Pending,55,NULL,Unknown,Unknown,2025-07-13
+ORD00966,CUST1171,Unknown,Delhi,Delhi,P006,Pepsi,beverages,5,150,0,750,"credit card",Returned,35,4,Sneha,Unknown,2025-07-12
+ORD00968,CUST1700,Vishal,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,1,120,NULL,NULL,cash,Returned,25,5,Amit,9876543210,2025-08-21
+ORD00969,CUST1268,Unknown,Hyderabad,Telangana,P003,"Britannia Bread",bakery,6,200,25,900,"credit card","Out for Delivery",10,NULL,Unknown,Unknown,2025-03-15
+ORD00970,CUST0202,Neha,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,3,75,10,202.5,cash,Delivered,15,1,Priya,Unknown,2025-06-07
+ORD00971,CUST0728,Priya,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,3,60,25,135,"credit card",Cancelled,75,NULL,Vikas,Unknown,2025-10-31
+ORD00972,CUST1705,Vishal,Delhi,Delhi,P004,"Lays Magic Masala",snacks,2,200,30,280,wallet,Cancelled,NULL,4,Sneha,Unknown,2025-12-15
+ORD00973,CUST0705,Karan,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,5,150,25,562.5,"credit card",Delivered,55,5,Amit,Unknown,2025-10-27
+ORD00974,CUST0966,Vishal,Delhi,Delhi,P012,"Dove Soap","personal care",2,90,50,90,upi,Returned,NULL,NULL,Priya,9876543210,2025-11-11
+ORD00977,CUST0323,Sneha,Delhi,Delhi,P004,"Lays Magic Masala",snacks,5,250,0,1250,unknown,Delivered,75,4,Unknown,9876543210,2025-04-20
+ORD00978,CUST0804,Aarav,Bengaluru,Karnataka,P006,Pepsi,beverages,2,90,10,162,upi,Delivered,40,2,Amit,Unknown,2025-09-20
+ORD00979,CUST0555,Neha,Bengaluru,Karnataka,P012,"Dove Soap","personal care",5,50,0,250,unknown,"Out for Delivery",22,NULL,Unknown,Unknown,2025-11-20
+ORD00981,CUST1749,Aditi,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",4,200,0,800,unknown,Delivered,75,NULL,Amit,9876543210,2025-04-10
+ORD00982,CUST1162,Rohan,Delhi,Delhi,P008,"Aashirvaad Atta",staples,2,500,50,500,upi,Delivered,30,2,Sneha,9876543210,2025-05-21
+ORD00983,CUST1541,Unknown,Pune,Maharashtra,P010,"Surf Excel",household,4,40,NULL,168,"credit card",Returned,55,NULL,Vikas,Unknown,2025-07-21
+ORD00984,CUST1209,Unknown,Hyderabad,Telangana,P014,"Red Bull",beverages,7,250,0,1750,upi,Delivered,75,4,Unknown,Unknown,2025-07-30
+ORD00985,CUST1753,Unknown,Nashik,Maharashtra,P009,"Tata Salt",staples,3,20,15,51,upi,Returned,45,NULL,Vikas,Unknown,2025-07-30
+ORD00987,CUST1177,Aarav,Nashik,Maharashtra,P016,"Parle-G Biscuits",bakery,3,200,NULL,NULL,upi,Delivered,45,3,Sneha,Unknown,2025-09-23
+ORD00989,CUST0531,Rahul,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,1,50,0,NULL,wallet,Unknown,15,NULL,Rohit,Unknown,2025-06-20
+ORD00990,CUST0617,Rohan,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,6,90,10,486,upi,Delivered,45,NULL,Vikas,Unknown,2025-03-25
+ORD00991,CUST1166,Ananya,Hyderabad,Telangana,P015,"Mother Dairy Curd",dairy,6,500,NULL,NULL,"debit card",Delivered,45,1,Priya,Unknown,2025-12-22
+ORD00992,CUST1475,Unknown,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,6,75,20,360,cash,Cancelled,30,5,Unknown,Unknown,2025-07-07
+ORD00993,CUST0823,Unknown,Delhi,Delhi,P015,"Mother Dairy Curd",dairy,6,90,25,405,wallet,Pending,15,2,Priya,Unknown,2025-12-12
+ORD00994,CUST0666,Aarav,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,1,40,NULL,42,cash,Cancelled,NULL,2,Vikas,Unknown,2025-03-28
+ORD00995,CUST0262,Rohan,Mumbai,Maharashtra,P012,"Dove Soap","personal care",7,120,20,672,upi,"Out for Delivery",75,4,Unknown,9876543210,2025-08-14
+ORD00996,CUST0746,Priya,Delhi,Delhi,P006,Pepsi,beverages,4,60,25,180,cash,Cancelled,35,5,Rahul,Unknown,2025-11-30
+ORD00997,CUST0487,Unknown,Nagpur,Maharashtra,P013,"Haldiram's Bhujia",snacks,7,200,5,1330,unknown,Delivered,45,4,Rahul,Unknown,2025-04-21
+ORD00998,CUST1229,Karan,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,7,40,0,280,"debit card",Delivered,45,3,Sneha,Unknown,2025-07-13
+ORD00999,CUST0108,Karan,Nashik,Maharashtra,P016,"Parle-G Biscuits",bakery,6,200,20,960,"debit card",Unknown,40,NULL,Vikas,Unknown,2025-06-16
+ORD01001,CUST0188,Aditi,Mumbai,Maharashtra,P002,"Amul Butter",dairy,4,90,0,360,cash,Pending,10,4,Sneha,Unknown,2025-03-14
+ORD01005,CUST0220,Priya,Mumbai,Maharashtra,P010,"Surf Excel",household,2,500,15,850,unknown,"Out for Delivery",60,NULL,Vikas,Unknown,2025-08-25
+ORD01006,CUST0554,Rohan,Mumbai,Maharashtra,P006,Pepsi,beverages,6,20,20,96,upi,Unknown,NULL,5,Unknown,Unknown,2025-06-14
+ORD01007,CUST0606,Unknown,Mumbai,Maharahstra,P001,"Amul Taaza Milk",dairy,3,120,15,306,"credit card",Cancelled,NULL,5,Rohit,Unknown,2025-08-12
+ORD01008,CUST1070,Rahul,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,1,500,50,250,upi,Delivered,40,NULL,Rohit,Unknown,2025-07-08
+ORD01009,CUST0235,Rahul,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,7,90,10,567,wallet,Cancelled,15,5,Rohit,Unknown,2025-02-23
+ORD01010,CUST0871,Unknown,Mumbai,Maharashtra,P007,"Maggi Noodles","instant food",4,25,NULL,105,wallet,Delivered,18,1,Sneha,Unknown,2025-12-05
+ORD01011,CUST0032,Unknown,Delhi,Delhi,P013,"Haldiram's Bhujia",snacks,1,120,0,120,upi,Delivered,75,3,Priya,Unknown,2025-08-22
+ORD01012,CUST0699,Rohan,Mumbai,Maharashtra,P010,"Surf Excel",household,4,120,0,480,cash,Delivered,25,5,Unknown,Unknown,2025-10-21
+ORD01013,CUST1071,Aarav,Pune,Maharashtra,P010,"Surf Excel",household,4,200,5,760,cash,Returned,75,4,Rohit,Unknown,2025-07-03
+ORD01014,CUST0475,Ananya,Pune,Maharashtra,P003,"Britannia Bread",bakery,4,90,10,324,upi,"Out for Delivery",35,1,Priya,9876543210,2025-10-19
+ORD01016,CUST0621,Aditi,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,6,150,50,450,cash,Delivered,30,3,Vikas,Unknown,2025-04-06
+ORD01017,CUST1623,Sneha,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,7,250,NULL,1837.5,cash,Returned,55,5,Rahul,Unknown,2025-08-05
+ORD01018,CUST1549,Ananya,Mumbai,Maharashtra,P016,"Parle-G Biscuits",bakery,4,250,NULL,1050,cash,Cancelled,30,NULL,Vikas,Unknown,2025-01-06
+ORD01019,CUST1288,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,1,50,NULL,NULL,unknown,Pending,75,1,Amit,Unknown,2025-03-05
+ORD01020,CUST1782,Priya,Delhi,Delhi,P003,"Britannia Bread",bakery,3,40,50,60,"credit card",Unknown,75,3,Unknown,Unknown,2025-10-30
+ORD01021,CUST0632,Rohan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,1,25,NULL,26.25,"credit card",Cancelled,35,5,Rohit,Unknown,2025-07-28
+ORD01022,CUST1276,Karan,Delhi,Delhi,P010,"Surf Excel",household,2,120,0,240,unknown,"Out for Delivery",18,1,Vikas,Unknown,2025-10-19
+ORD01023,CUST0594,Sneha,Pune,Maharashtra,P005,"Coca Cola",beverages,3,120,5,342,upi,Returned,55,4,Vikas,Unknown,2025-09-03
+ORD01024,CUST1158,Sneha,Nashik,Maharashtra,P015,"Mother Dairy Curd",dairy,6,60,0,360,"credit card",Cancelled,NULL,3,Rohit,Unknown,2025-08-12
+ORD01025,CUST0805,Karan,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,3,120,20,288,upi,Unknown,90,NULL,Amit,9876543210,2025-09-07
+ORD01026,CUST1246,Rahul,Delhi,Delhi,P009,"Tata Salt",staples,4,500,5,1900,upi,Cancelled,45,5,Unknown,Unknown,2025-10-03
+ORD01027,CUST1459,Rohan,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,3,40,10,108,wallet,Delivered,22,NULL,Priya,Unknown,2025-09-09
+ORD01030,CUST1250,Sneha,Hyderabad,Telangana,P005,"Coca Cola",beverages,4,90,5,342,upi,Delivered,60,1,Amit,Unknown,2025-02-04
+ORD01031,CUST0910,Rohan,Nashik,Maharashtra,P002,"amul butter",dairy,4,250,NULL,NULL,upi,Cancelled,NULL,NULL,Sneha,Unknown,2025-07-03
+ORD01032,CUST1268,Rohan,Nashik,Maharashtra,P010,"Surf Excel",household,6,40,20,192,"debit card",Delivered,40,3,Rohit,Unknown,2025-09-13
+ORD01033,CUST1679,Aditi,Bengaluru,Karnataka,P002,"Amul Butter",dairy,5,60,0,300,"credit card",Cancelled,45,5,Rahul,9876543210,2025-09-24
+ORD01034,CUST0865,Rohan,Bengaluru,Karnataka,P009,"Tata Salt",staples,1,50,0,50,cash,Cancelled,55,NULL,Unknown,Unknown,2025-06-20
+ORD01035,CUST0202,Unknown,Delhi,Delhi,P012,"Dove Soap","personal care",4,60,10,216,unknown,Delivered,NULL,4,Amit,Unknown,2025-04-30
+ORD01036,CUST0330,Unknown,Delhi,Delhi,P005,"Coca Cola",beverages,3,90,15,229.5,"credit card",Returned,40,5,Unknown,Unknown,2025-11-19
+ORD01037,CUST1112,Priya,Hyderabad,Telangana,P003,"Britannia Bread",bakery,1,60,5,57,unknown,Delivered,60,5,Rohit,Unknown,2025-08-31
+ORD01039,CUST0885,Karan,Pune,Maharashtra,P002,"Amul Butter",dairy,1,250,0,250,"credit card",Returned,35,3,Vikas,Unknown,2025-12-06
+ORD01040,CUST1412,Karan,Bengaluru,Karnataka,P012,"Dove Soap","personal care",6,35,NULL,NULL,"credit card",Pending,55,5,Amit,9876543210,2025-09-25
+ORD01041,CUST1767,Unknown,Bengaluru,Karnataka,P009,"Tata Salt",staples,6,250,10,1350,wallet,Cancelled,45,2,Unknown,Unknown,2025-09-10
+ORD01044,CUST1230,Rahul,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,5,200,0,1000,wallet,Cancelled,22,3,Amit,Unknown,2025-07-02
+ORD01045,CUST1399,Ananya,Nashik,Maharashtra,P016,"Parle-G Biscuits",bakery,2,200,50,200,cash,Delivered,30,3,Rohit,9876543210,2025-05-30
+ORD01046,CUST1646,Neha,Delhi,Delhi,P012,"Dove Soap","personal care",7,200,0,1400,wallet,Unknown,55,1,Unknown,Unknown,2025-05-07
+ORD01047,CUST1519,Ananya,Nashik,Maharashtra,P006,Pepsi,beverages,1,20,0,20,upi,Unknown,75,4,Rohit,Unknown,2025-11-13
+ORD01049,CUST0307,Unknown,Nagpur,Maharashtra,P002,"Amul Butter",dairy,3,25,0,75,unknown,Pending,15,1,Rohit,Unknown,2025-06-20
+ORD01050,CUST0144,Karan,Nashik,Maharashtra,P007,"Maggi Noodles","instant food",2,40,0,80,upi,Returned,15,1,Priya,Unknown,2025-11-20
+ORD01051,CUST1401,Karan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,6,120,10,648,upi,Returned,55,1,Rohit,Unknown,2025-04-05
+ORD01052,CUST0560,Neha,Mumbai,Maharashtra,P003,"Britannia Bread",bakery,1,25,5,23.75,unknown,Cancelled,30,NULL,Rohit,Unknown,2025-02-03
+ORD01054,CUST0559,Neha,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,2,250,50,250,"debit card",Cancelled,60,NULL,Amit,Unknown,2025-03-30
+ORD01055,CUST0621,Aditi,Mumbai,Maharashtra,P008,"Aashirvaad Atta",staples,6,50,0,300,upi,Delivered,55,2,Priya,9876543210,2025-04-21
+ORD01056,CUST1475,Unknown,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,3,35,NULL,110.25,upi,"Out for Delivery",10,4,Unknown,Unknown,2025-10-11
+ORD01057,CUST0163,Ananya,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,5,90,NULL,472.5,"credit card",Delivered,35,4,Rahul,Unknown,2025-03-17
+ORD01058,CUST0849,Unknown,Nashik,Maharashtra,P012,"Dove Soap","personal care",4,20,5,76,wallet,Unknown,30,NULL,Rahul,Unknown,2025-02-15
+ORD01059,CUST0054,Karan,Pune,Maharashtra,P005,"Coca Cola",beverages,4,250,30,700,cash,"Out for Delivery",55,NULL,Sneha,Unknown,2025-11-01
+ORD01060,CUST1635,Aarav,Hyderabad,Telangana,P009,"Tata Salt",staples,2,35,NULL,73.5,upi,Delivered,90,4,Rahul,Unknown,2025-12-23
+ORD01061,CUST0776,Vishal,Pune,Maharashtra,P002,"Amul Butter",dairy,3,250,5,712.5,upi,Delivered,90,4,Rahul,Unknown,2025-12-08
+ORD01062,CUST1591,Neha,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",4,200,0,800,"credit card",Cancelled,NULL,1,Vikas,Unknown,2025-01-19
+ORD01063,CUST0624,Vishal,Hyderabad,Telangana,P010,"Surf Excel",household,7,250,NULL,1837.5,upi,Delivered,22,1,Unknown,Unknown,2025-11-18
+ORD01064,CUST1564,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,2,25,50,25,cash,Returned,40,5,Unknown,Unknown,2025-07-19
+ORD01065,CUST1467,Unknown,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,7,50,NULL,NULL,"debit card",Delivered,10,2,Priya,Unknown,2025-03-16
+ORD01066,CUST1155,Aditi,Nashik,Maharashtra,P015,"Mother Dairy Curd",dairy,7,25,30,122.5,"credit card",Unknown,60,2,Rahul,Unknown,2025-07-20
+ORD01067,CUST0624,Neha,Nagpur,Maharashtra,P007,"Maggi Noodles","instant food",7,150,25,787.5,"credit card",Pending,15,1,Priya,Unknown,2025-11-30
+ORD01068,CUST1412,Rohan,Nagpur,Maharashtra,P010,"Surf Excel",household,7,25,0,175,upi,Returned,18,3,Vikas,Unknown,2025-04-13
+ORD01069,CUST1243,Rohan,Bengaluru,Karnataka,P003,"Britannia Bread",bakery,3,150,10,405,"credit card",Delivered,75,5,Unknown,Unknown,2025-09-12
+ORD01070,CUST0711,Neha,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,250,30,700,"credit card",Cancelled,60,4,Sneha,Unknown,2025-04-24
+ORD01071,CUST0949,Unknown,Hyderabad,Telangana,P009,"Tata Salt",staples,6,35,50,105,"credit card","Out for Delivery",22,5,Rahul,Unknown,2025-09-23
+ORD01073,CUST1414,Vishal,Mumbai,Maharashtra,P005,"Coca Cola",beverages,7,60,NULL,NULL,upi,Unknown,30,1,Unknown,Unknown,2025-05-02
+ORD01075,CUST0310,Aarav,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,6,120,5,684,wallet,Cancelled,22,3,Vikas,Unknown,2025-02-03
+ORD01077,CUST0092,Priya,Pune,Delhi,P014,"Red Bull",staples,3,35,10,94.5,unknown,Delivered,60,2,Priya,9876543210,2025-11-04
+ORD01078,CUST0765,Sneha,Pune,Maharashtra,P006,Pepsi,beverages,2,35,0,70,upi,Cancelled,40,5,Rohit,Unknown,2025-05-09
+ORD01079,CUST1018,Rohan,Nagpur,Maharashtra,P006,Pepsi,beverages,3,60,30,126,"credit card","Out for Delivery",18,5,Priya,9876543210,2025-02-06
+ORD01080,CUST0807,Ananya,Hyderabad,Telangana,P002,"Amul Butter",dairy,7,50,50,175,cash,Unknown,30,NULL,Unknown,Unknown,2025-06-16
+ORD01081,CUST1179,Rohan,Mumbai,Maharashtra,P006,Pepsi,beverages,5,500,0,2500,cash,Pending,15,5,Rohit,Unknown,2025-07-02
+ORD01083,CUST1404,Neha,Hyderabad,Telangana,P006,Pepsi,beverages,7,20,15,119,upi,Delivered,75,1,Amit,Unknown,2025-08-25
+ORD01084,CUST1342,Sneha,Hyderabad,Telangana,P012,"Dove Soap","personal care",1,60,0,60,unknown,Returned,NULL,NULL,Unknown,Unknown,2025-12-30
+ORD01086,CUST0899,Priya,Bengaluru,Karnataka,P014,"red bull",beverages,7,60,0,420,cash,Delivered,15,NULL,Unknown,Unknown,2025-09-12
+ORD01087,CUST1027,Ananya,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",3,40,0,120,wallet,"Out for Delivery",90,4,Unknown,9876543210,2025-09-30
+ORD01088,CUST0030,Priya,Bengaluru,Karnataka,P014,"Red Bull",beverages,3,40,NULL,NULL,cash,Cancelled,15,NULL,Unknown,Unknown,2025-05-06
+ORD01089,CUST0352,Rohan,Nashik,Maharashtra,P013,"Haldiram's Bhujia",snacks,1,250,NULL,262.5,cash,Pending,60,NULL,Rohit,Unknown,2025-07-24
+ORD01090,CUST0519,Vishal,Nashik,Maharashtra,P002,"Amul Butter",dairy,4,75,5,285,upi,Returned,NULL,5,Priya,Unknown,2025-01-01
+ORD01091,CUST0138,Aditi,Bengaluru,Karnataka,P016,"Parle-G Biscuits",bakery,4,60,15,204,cash,Unknown,25,5,Sneha,Unknown,2025-01-23
+ORD01092,CUST1251,Sneha,Delhi,Delhi,P007,"Maggi Noodles","instant food",4,150,15,510,upi,Cancelled,10,NULL,Amit,Unknown,2025-08-27
+ORD01093,CUST0515,Rohan,Hyderabad,Telangana,P002,"Amul Butter",dairy,5,150,0,750,"credit card",Delivered,15,2,Unknown,9876543210,2025-12-15
+ORD01095,CUST1201,Rahul,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,6,250,50,750,wallet,Returned,55,3,Vikas,Unknown,2025-03-24
+ORD01096,CUST0483,Neha,Pune,Maharashtra,P003,"Britannia Bread",bakery,5,75,30,262.5,"credit card",Delivered,75,2,Rahul,Unknown,2025-06-18
+ORD01097,CUST1122,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,2,200,NULL,NULL,wallet,Pending,40,3,Unknown,9876543210,2025-02-08
+ORD01098,CUST0448,Unknown,Mumbai,Maharashtra,P013,"haldiram's bhujia",snacks,4,20,30,56,upi,Unknown,90,5,Vikas,Unknown,2025-02-02
+ORD01099,CUST0212,Rahul,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",5,60,5,285,upi,Cancelled,45,NULL,Rohit,Unknown,2025-09-08
+ORD01100,CUST1717,Aditi,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,6,25,0,150,"debit card",Pending,45,1,Sneha,9876543210,2025-01-03
+ORD01101,CUST1539,Unknown,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",3,35,0,105,"debit card",Unknown,40,NULL,Amit,Unknown,2025-09-12
+ORD01103,CUST1487,Rahul,Mumbai,Maharashtra,P002,"Amul Butter",dairy,1,40,50,20,wallet,Unknown,45,4,Vikas,Unknown,2025-12-20
+ORD01104,CUST0365,Karan,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,6,150,10,810,cash,Cancelled,35,5,Priya,Unknown,2025-10-05
+ORD01105,CUST1218,Aditi,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,1,150,15,127.5,cash,Delivered,45,NULL,Unknown,Unknown,2025-06-28
+ORD01106,CUST0481,Rohan,Bengaluru,Karnataka,P014,"Red Bull",beverages,2,150,0,300,cash,Pending,45,2,Unknown,Unknown,2025-07-21
+ORD01107,CUST1494,Neha,Hyderabad,Telangana,P013,"haldiram's bhujia",beverages,2,120,15,204,upi,Unknown,30,5,Unknown,Unknown,2025-09-30
+ORD01108,CUST0018,Rohan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,200,5,760,"credit card",Cancelled,10,NULL,Unknown,Unknown,2025-11-28
+ORD01109,CUST1613,Sneha,Pune,Maharashtra,P006,Pepsi,beverages,7,200,50,700,"credit card",Delivered,90,5,Priya,9876543210,2025-07-21
+ORD01111,CUST0673,Sneha,Delhi,Delhi,P006,Pepsi,beverages,4,250,0,1000,cash,Delivered,15,1,Rahul,Unknown,2025-10-08
+ORD01112,CUST0985,Rahul,Pune,Maharashtra,P001,"Amul Taaza Milk",dairy,7,50,0,350,unknown,Delivered,15,3,Priya,Unknown,2025-06-02
+ORD01113,CUST0498,Rohan,Hyderabad,Telangana,P004,"Lays Magic Masala",snacks,4,75,0,300,unknown,Pending,90,NULL,Rohit,Unknown,2025-07-29
+ORD01114,CUST1717,Neha,Bengaluru,Karnataka,P009,"tata salt",staples,4,150,20,480,wallet,Delivered,10,5,Rohit,Unknown,2025-08-20
+ORD01115,CUST1140,Neha,Nagpur,Maharashtra,P015,"Mother Dairy Curd",dairy,3,90,NULL,283.5,cash,"Out for Delivery",25,4,Unknown,Unknown,2025-03-08
+ORD01116,CUST1099,Aditi,Delhi,Delhi,P003,"Britannia Bread",bakery,2,120,25,180,"credit card",Delivered,30,4,Rahul,9876543210,2025-02-22
+ORD01117,CUST0839,Rahul,Delhi,Delhi,P014,"Red Bull",beverages,6,75,25,337.5,cash,Returned,22,NULL,Priya,Unknown,2025-08-24
+ORD01118,CUST1412,Rahul,Pune,Maharashtra,P013,"Haldiram's Bhujia",snacks,5,50,50,125,upi,Cancelled,40,4,Vikas,Unknown,2025-04-05
+ORD01119,CUST1147,Rohan,Nashik,Maharashtra,P003,"Britannia Bread",bakery,5,40,20,160,"debit card","Out for Delivery",30,4,Priya,Unknown,2025-05-02
+ORD01121,CUST1605,Rohan,Pune,Maharashtra,P009,"Tata Salt",staples,6,120,0,720,cash,Delivered,10,3,Unknown,9876543210,2025-03-01
+ORD01122,CUST0816,Aditi,Bengaluru,Karnataka,P010,"Surf Excel",household,6,200,20,960,"credit card",Delivered,15,NULL,Priya,Unknown,2025-12-13
+ORD01123,CUST0840,Rohan,Delhi,Delhi,P008,"Aashirvaad Atta",staples,1,90,0,90,cash,Delivered,40,4,Unknown,Unknown,2025-06-09
+ORD01125,CUST1225,Karan,Nashik,Maharashtra,P008,"Aashirvaad Atta",staples,6,90,20,432,"credit card",Unknown,30,NULL,Sneha,Unknown,2025-06-12
+ORD01126,CUST1692,Rohan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,2,60,0,120,upi,Cancelled,90,NULL,Priya,Unknown,2025-12-25
+ORD01127,CUST0921,Unknown,Pune,Maharashtra,P005,"Coca Cola",beverages,5,60,25,225,unknown,Cancelled,40,NULL,Unknown,9876543210,2025-10-04
+ORD01128,CUST0056,Vishal,Delhi,Delhi,P001,"Amul Taaza Milk",dairy,3,35,50,52.5,unknown,Delivered,90,1,Priya,Unknown,2025-02-04
+ORD01130,CUST0365,Unknown,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,1,120,0,120,upi,Delivered,55,4,Unknown,Unknown,2025-07-13
+ORD01133,CUST1463,Sneha,Bengaluru,Karnataka,P016,"parle-g biscuits",bakery,2,250,30,NULL,"credit card",Unknown,40,1,Amit,Unknown,2025-08-20
+ORD01135,CUST1372,Vishal,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",3,250,10,675,unknown,Returned,30,4,Rahul,Unknown,2025-12-12
+ORD01136,CUST0670,Vishal,Pune,Maharashtra,P006,Pepsi,beverages,4,40,0,160,"credit card",Delivered,35,3,Vikas,Unknown,2025-07-09
+ORD01137,CUST1783,Rohan,Pune,Maharashtra,P010,"Surf Excel",household,3,25,30,52.5,cash,Cancelled,22,NULL,Priya,9876543210,2025-11-27
+ORD01138,CUST1043,Aarav,Bengaluru,Karnataka,P005,"Coca Cola",beverages,2,200,0,400,cash,Cancelled,NULL,4,Unknown,Unknown,2025-01-04
+ORD01139,CUST0085,Priya,Bengaluru,Karnataka,P004,"Lays Magic Masala",snacks,7,120,0,840,upi,Cancelled,40,NULL,Vikas,Unknown,2025-02-25
+ORD01140,CUST0168,Rohan,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,25,5,166.25,wallet,Returned,35,5,Rohit,Unknown,2025-03-28
+ORD01141,CUST0169,Sneha,Mumbai,Maharashtra,P012,"Dove Soap","personal care",4,120,25,360,"debit card",Pending,NULL,1,Rahul,Unknown,2025-12-09
+ORD01142,CUST1388,Vishal,Bengaluru,Karnataka,P014,"Red Bull",beverages,6,40,15,204,cash,Pending,15,NULL,Rohit,Unknown,2025-10-21
+ORD01143,CUST1439,Priya,Delhi,Delhi,P003,"Britannia Bread",bakery,2,500,0,1000,cash,Delivered,22,2,Unknown,9876543210,2025-05-25
+ORD01144,CUST0889,Rohan,Delhi,Delhi,P014,"red bull",beverages,6,250,20,1200,unknown,Delivered,10,5,Unknown,Unknown,2025-02-05
+ORD01145,CUST0464,Ananya,Mumbai,Maharashtra,P012,"Dove Soap","personal care",4,75,15,255,"credit card",Delivered,60,3,Sneha,Unknown,2025-04-03
+ORD01147,CUST0735,Aditi,Nagpur,Maharashtra,P005,"Coca Cola",beverages,6,200,0,1200,"credit card",Unknown,60,3,Unknown,Unknown,2025-11-06
+ORD01148,CUST0989,Ananya,Pune,Maharashtra,P012,"Dove Soap","personal care",7,20,10,126,"credit card","Out for Delivery",75,2,Amit,Unknown,2025-05-30
+ORD01149,CUST1159,Karan,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",3,200,50,300,wallet,Cancelled,NULL,4,Amit,Unknown,2025-09-21
+ORD01150,CUST1057,Unknown,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,3,90,10,243,unknown,Delivered,25,5,Rahul,Unknown,2025-04-05
+ORD01151,CUST1195,Priya,Mumbai,Maharashtra,P004,"Lays Magic Masala",snacks,1,60,15,51,upi,Cancelled,NULL,3,Vikas,Unknown,2025-10-22
+ORD01152,CUST0728,Ananya,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,4,75,NULL,NULL,upi,Cancelled,60,3,Rohit,Unknown,2025-10-13
+ORD01153,CUST0866,Sneha,Bengaluru,Karnataka,P002,"Amul Butter",dairy,4,250,0,1000,upi,Returned,55,NULL,Priya,Unknown,2025-01-17
+ORD01154,CUST1324,Rohan,Nashik,Maharashtra,P003,"Britannia Bread",bakery,1,60,30,42,"debit card",Returned,15,4,Unknown,Unknown,2025-03-25
+ORD01155,CUST1003,Rohan,Hyderabad,Telangana,P009,"Tata Salt",staples,3,250,20,600,upi,Unknown,90,4,Vikas,Unknown,2025-04-15
+ORD01156,CUST0040,Karan,Hyderabad,Telangana,P016,"Parle-G Biscuits",bakery,1,500,15,425,unknown,Cancelled,40,4,Sneha,9876543210,2025-01-17
+ORD01157,CUST1263,Rahul,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",5,75,0,375,cash,Pending,55,5,Priya,Unknown,2025-04-21
+ORD01158,CUST1793,Aarav,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,4,60,5,228,unknown,Delivered,30,3,Unknown,Unknown,2025-10-11
+ORD01159,CUST0099,Rohan,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,7,40,0,280,"credit card","Out for Delivery",10,1,Rahul,9876543210,2025-06-20
+ORD01160,CUST1014,Aarav,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,7,35,15,208.25,cash,Delivered,15,NULL,Unknown,Unknown,2025-08-12
+ORD01162,CUST1704,Unknown,Pune,Maharashtra,P008,"Aashirvaad Atta",staples,3,50,NULL,NULL,cash,Delivered,90,NULL,Rahul,Unknown,2025-06-05
+ORD01166,CUST0212,Unknown,Delhi,Delhi,P008,"Aashirvaad Atta",staples,4,500,50,1000,upi,Cancelled,10,4,Amit,9876543210,2025-08-02
+ORD01167,CUST1166,Neha,Nagpur,Maharashtra,P015,"mother dairy curd",dairy,7,35,15,208.25,upi,Delivered,40,NULL,Unknown,Unknown,2025-10-25
+ORD01168,CUST0994,Rahul,Bengaluru,Karnataka,P006,Pepsi,beverages,6,90,15,459,cash,Delivered,18,5,Rahul,9876543210,2025-06-30
+ORD01169,CUST0088,Aarav,Pune,Maharashtra,P007,"Maggi Noodles","instant food",4,50,10,180,"debit card","Out for Delivery",15,3,Sneha,Unknown,2025-05-24
+ORD01170,CUST1577,Unknown,Pune,Maharashtra,P002,"Amul Butter",dairy,5,200,0,1000,unknown,Cancelled,40,2,Sneha,Unknown,2025-03-18
+ORD01171,CUST0719,Priya,Nagpur,Maharashtra,P015,"Mother Dairy Curd",dairy,4,90,50,180,upi,Cancelled,55,5,Unknown,Unknown,2025-07-18
+ORD01172,CUST0967,Rohan,Pune,Maharashtra,P003,"Britannia Bread",bakery,3,25,15,63.75,upi,Cancelled,60,4,Vikas,Unknown,2025-12-03
+ORD01173,CUST0455,Karan,Hyderabad,Telangana,P009,"Tata Salt",staples,7,60,NULL,441,"debit card",Unknown,22,3,Rohit,Unknown,2025-03-17
+ORD01174,CUST0170,Rahul,Mumbai,Maharashtra,P002,"Amul Butter",dairy,7,20,20,112,"credit card",Delivered,75,3,Rohit,Unknown,2025-06-27
+ORD01175,CUST0130,Unknown,Bengaluru,Karnataka,P001,"Amul Taaza Milk",dairy,2,20,5,38,"credit card",Delivered,60,NULL,Vikas,Unknown,2025-01-11
+ORD01176,CUST1611,Neha,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,6,35,5,199.5,"debit card",Delivered,22,4,Unknown,Unknown,2025-10-28
+ORD01179,CUST0425,Aditi,Nashik,Maharashtra,P011,"Colgate Toothpaste","personal care",2,25,10,45,upi,Cancelled,35,5,Unknown,Unknown,2025-11-14
+ORD01180,CUST0593,Ananya,Nagpur,Maharashtra,P014,"Red Bull",beverages,5,150,20,600,"credit card",Delivered,30,3,Unknown,Unknown,2025-03-26
+ORD01181,CUST0179,Unknown,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,5,20,0,100,upi,Pending,25,5,Rohit,9876543210,2025-07-11
+ORD01182,CUST0068,Vishal,Bengaluru,Karnataka,P008,"Aashirvaad Atta",staples,5,40,0,200,upi,Delivered,55,NULL,Amit,Unknown,2025-03-18
+ORD01183,CUST0066,Unknown,Mumbai,Maharashtra,P005,"Coca Cola",beverages,6,150,10,810,unknown,Returned,55,NULL,Unknown,Unknown,2025-02-25
+ORD01185,CUST1143,Aarav,Mumbai,Maharashtra,P001,"Amul Taaza Milk",dairy,7,150,0,1050,"credit card",Returned,75,5,Unknown,Unknown,2025-01-09
+ORD01186,CUST0174,Aarav,Bengaluru,Karnataka,P002,"Amul Butter",dairy,5,35,0,175,unknown,Cancelled,10,4,Priya,Unknown,2025-05-21
+ORD01187,CUST0034,Vishal,Mumbai,Maharashtra,P012,"Dove Soap","personal care",6,25,20,120,"credit card",Pending,60,3,Amit,9876543210,2025-08-25
+ORD01188,CUST1606,Sneha,Delhi,Delhi,P003,"Britannia Bread",bakery,2,25,0,50,"credit card",Unknown,35,2,Rohit,Unknown,2025-03-18
+ORD01190,CUST0191,Neha,Pune,Maharashtra,P007,"Maggi Noodles","instant food",2,60,0,120,"debit card",Delivered,60,3,Priya,Unknown,2025-02-11
+ORD01191,CUST1783,Aditi,Bengaluru,Karnataka,P007,"Maggi Noodles","instant food",3,150,0,450,unknown,Delivered,40,4,Unknown,Unknown,2025-10-21
+ORD01193,CUST1224,Vishal,Pune,Maharashtra,P004,"Lays Magic Masala",snacks,1,75,30,52.5,"credit card",Cancelled,40,NULL,Vikas,Unknown,2025-04-03
+ORD01195,CUST0124,Unknown,Pune,Maharashtra,P007,"Maggi Noodles","instant food",5,75,25,281.25,cash,Cancelled,35,5,Unknown,Unknown,2025-12-31
+ORD01196,CUST1272,Karan,Delhi,Delhi,P003,"Britannia Bread",bakery,2,250,30,350,cash,Pending,25,NULL,Rohit,Unknown,2025-06-22
+ORD01198,CUST1455,Rahul,Nagpur,Maharashtra,P008,"Aashirvaad Atta",staples,5,75,10,337.5,upi,Cancelled,55,3,Unknown,Unknown,2025-08-16
+ORD01200,CUST1436,Vishal,Nagpur,Maharashtra,P016,"Parle-G Biscuits",bakery,6,250,10,1350,unknown,Delivered,35,3,Priya,Unknown,2025-09-28
+ORD01201,CUST0714,Unknown,Pune,Maharashtra,P014,"Red Bull",beverages,3,35,NULL,110.25,"credit card",Delivered,15,5,Vikas,Unknown,2025-08-25
+ORD01202,CUST0498,Priya,Nagpur,Maharashtra,P004,"Lays Magic Masala",snacks,4,40,30,112,unknown,"Out for Delivery",75,5,Sneha,9876543210,2025-01-16
+ORD01203,CUST0653,Rohan,Mumbai,Maharashtra,P011,"Colgate Toothpaste","personal care",7,500,NULL,NULL,"debit card","Out for Delivery",25,NULL,Sneha,Unknown,2025-08-19
+ORD01204,CUST0270,Sneha,Hyderabad,Telangana,P015,"mother dairy curd",dairy,5,120,0,600,cash,Unknown,40,3,Priya,Unknown,2025-07-28
+ORD01205,CUST1253,Unknown,Nagpur,Maharashtra,P016,"parle-g biscuits",bakery,2,20,0,40,cash,Cancelled,22,1,Rohit,Unknown,2025-10-08
+ORD01206,CUST1274,Neha,Bengaluru,Karnataka,P012,"Dove Soap","personal care",7,200,NULL,NULL,"debit card",Delivered,10,1,Rahul,Unknown,2025-12-09
+ORD01208,CUST0084,Unknown,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,5,60,0,300,upi,Delivered,25,5,Sneha,Unknown,2025-01-22
+ORD01209,CUST1092,Unknown,Nagpur,Maharashtra,P007,"Maggi Noodles","instant food",4,200,15,680,upi,Cancelled,40,5,Rahul,Unknown,2025-07-15
+ORD01210,CUST1334,Aditi,Pune,Maharashtra,P009,"Tata Salt",staples,2,500,NULL,1050,upi,Delivered,10,3,Amit,Unknown,2025-01-18
+ORD01211,CUST1316,Karan,Mumbai,Maharashtra,P015,"Mother Dairy Curd",dairy,4,250,15,850,cash,Cancelled,55,3,Vikas,Unknown,2025-05-31
+ORD01213,CUST0593,Aarav,Pune,Maharashtra,P005,"Coca Cola",beverages,3,200,50,300,upi,Cancelled,30,3,Rohit,Unknown,2025-12-12
+ORD01214,CUST0561,Neha,Bengaluru,Karnataka,P015,"Mother Dairy Curd",dairy,4,250,25,750,unknown,Cancelled,NULL,2,Vikas,Unknown,2025-03-01
+ORD01215,CUST0587,Unknown,Bengaluru,Karnataka,P005,"Coca Cola",beverages,6,90,0,540,wallet,Returned,35,4,Vikas,Unknown,2025-05-01
+ORD01216,CUST0763,Aditi,Bengaluru,Karnataka,P010,"Surf Excel",household,6,250,NULL,1575,"credit card",Delivered,18,4,Vikas,Unknown,2025-10-29
+ORD01218,CUST0482,Unknown,Delhi,Delhi,P016,"Parle-G Biscuits",bakery,5,200,10,900,cash,Pending,NULL,NULL,Amit,Unknown,2025-10-10
+ORD01219,CUST1282,Karan,Nagpur,Maharashtra,P012,"Dove Soap","personal care",4,20,20,64,unknown,Cancelled,35,1,Rohit,Unknown,2025-12-25
+ORD01220,CUST1643,Sneha,Pune,Maharashtra,P005,"Coca Cola",beverages,5,20,20,NULL,upi,Delivered,30,NULL,Priya,9876543210,2025-06-27
+ORD01221,CUST1609,Priya,Nashik,Maharashtra,P008,"Aashirvaad Atta",staples,1,250,0,250,upi,Delivered,55,NULL,Priya,Unknown,2025-05-15
+ORD01222,CUST1681,Priya,Pune,Maharashtra,P004,"Lays Magic Masala",staples,5,500,NULL,NULL,cash,Delivered,30,NULL,Sneha,Unknown,2025-01-10
+ORD01223,CUST0579,Unknown,Pune,Maharashtra,P016,"Parle-G Biscuits",bakery,2,35,50,35,unknown,Unknown,45,3,Unknown,Unknown,2025-02-22
+ORD01224,CUST0389,Unknown,Pune,Maharashtra,P012,"Dove Soap","personal care",1,90,20,72,unknown,Delivered,22,4,Rahul,Unknown,2025-09-10
+ORD01225,CUST0122,Ananya,Hyderabad,Telangana,P005,"Coca Cola",beverages,5,250,5,1187.5,upi,Delivered,35,4,Vikas,Unknown,2025-03-28
+ORD01226,CUST0474,Unknown,Pune,Maharashtra,P002,"Amul Butter",dairy,7,200,0,1400,unknown,Unknown,35,2,Priya,9876543210,2025-02-06
+ORD01227,CUST1460,Aditi,Mumbai,Maharashtra,P004,"Lays Magic Masala",staples,5,500,0,2500,"debit card",Cancelled,40,1,Amit,Unknown,2025-04-09
+ORD01228,CUST0925,Priya,Bengaluru,Karnataka,P011,"Colgate Toothpaste","personal care",2,250,20,NULL,upi,Pending,45,NULL,Rahul,Unknown,2025-12-22
+ORD01229,CUST0996,Aarav,Pune,Maharashtra,P003,"Britannia Bread",bakery,1,60,10,54,cash,Returned,90,5,Priya,Unknown,2025-01-17
+ORD01230,CUST0032,Vishal,Pune,Maharashtra,P014,"Red Bull",beverages,3,120,25,270,unknown,Pending,18,3,Unknown,Unknown,2025-01-18
+ORD01231,CUST0935,Aarav,Mumbai,Maharashtra,P013,"Haldiram's Bhujia",snacks,4,500,30,1400,upi,Pending,60,3,Amit,Unknown,2025-05-18
