@@ -143,7 +143,9 @@ Swiggy-Instamart-PowerBI/
 ## 📸 Dashboard Preview
 
 <img width="1321" height="743" alt="Screenshot 2026-09-27 214044" src="https://github.com/user-attachments/assets/c310a4f1-c975-48c5-bea8-137b177830fc" />
+
 <img width="1316" height="740" alt="Screenshot 2026-09-27 214119" src="https://github.com/user-attachments/assets/b1e491a8-3ae9-4db2-90aa-7b882d9b7df2" />
+
 <img width="1321" height="738" alt="Screenshot 2026-09-27 214142" src="https://github.com/user-attachments/assets/7d8d5959-4b9f-4c40-9549-13fe98028e4d" />
 
 
