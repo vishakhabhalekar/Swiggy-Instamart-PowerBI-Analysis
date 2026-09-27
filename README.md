@@ -144,7 +144,8 @@ Swiggy-Instamart-PowerBI/
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](<img width="1321" height="743" alt="Screenshot 2026-09-27 214044" src="https://github.com/user-attachments/assets/869d49b6-2204-4609-9244-c41a18b9cfd7" />
+
 
 ### Customers & Products
 
@@ -155,7 +156,7 @@ Swiggy-Instamart-PowerBI/
 ![Operations & Delivery](Screenshots/Operations_Delivery.png)
 
 ---
-<img width="1321" height="738" alt="Screenshot 2026-09-27 214142" src="https://github.com/user-attachments/assets/4a33d9ff-8356-476d-b356-7042c189d0a5" />
+
 
 
 ## 🚀 What I Learned
