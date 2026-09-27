@@ -124,7 +124,7 @@ Based on the analysis, some possible actions are:
 
 ## 📂 Project Files
 
-```text
+
 Swiggy-Instamart-PowerBI/
 │
 ├── README.md
